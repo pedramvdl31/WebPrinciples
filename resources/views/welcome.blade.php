@@ -65,7 +65,7 @@
         <div class="row">
             <div class="col-md-6 about-img-wrap">
                 <div class="about-img wow slideInRight">
-                    <img src="/assets/media/hello-section/image.jpg" style="object-fit: contain !important" alt="pedram khoshnevis portfolio" class="img-responsive">
+                    <img src="/assets/media/hello-section/Pedram Khoshnevis Portfolio.jpeg" style="object-fit: contain !important" alt="pedram khoshnevis portfolio" class="img-responsive">
                 </div>
             </div>
             <div class="col-md-6">
@@ -397,12 +397,12 @@
                 <div class="portfolio">
                     <div class="row">
                         <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
-                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="patty" title="Shop web app “Patty”" href="#" class="portfolio-box">
+                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="Apposha" title="Web app “Database as a service”" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/portfolio-1.jpg" alt="">
+                                    <img src="/assets/media/portfolio-images/Apposha/Landing-Page.png" alt="apposha.io">
                                 </div>
                                 <div class="portfolio-name">
-                                    <span>Shop web app “Patty”</span>
+                                    <span>Startup Web Application, CMS and Database as a Service (DBaaS) for Apposha.io</span>
                                 </div>
                                 <div class="portfolio-date">
                                     <span>April, 2017</span>
@@ -410,28 +410,28 @@
                             </a>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-6 mix frontend wow flipInX">
-                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="phoenix" title="Startup website “Phoenix”" href="#" class="portfolio-box">
+                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="ubutoday" title="UBUToday" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/portfolio-2.jpg" alt="">
+                                    <img src="/assets/media/portfolio-images/UBUToday/Landing-Page-2.png" alt="">
                                 </div>
                                 <div class="portfolio-name">
-                                    <span>Startup website “Phoenix”</span>
+                                    <span>UBUToday Website Builder and CMS</span>
                                 </div>
                                 <div class="portfolio-date">
-                                    <span>March, 2016</span>
+                                    <span>Present</span>
                                 </div>
                             </a>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
-                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="ewesta" title="Corporate chat “eWesta”" href="#" class="portfolio-box">
+                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="emmanuelsrug" title="Emmanuelsrug" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/portfolio-3.jpg" alt="">
+                                    <img src="/assets/media/portfolio-images/EmmanuelsRug/Landing-Page.png" alt="">
                                 </div>
                                 <div class="portfolio-name">
-                                    <span>Corporate chat “eWesta”</span>
+                                    <span>Emmanuelsrug Website Builder and CMS</span>
                                 </div>
                                 <div class="portfolio-date">
-                                    <span>December, 2015</span>
+                                    <span>March, 2015</span>
                                 </div>
                             </a>
                         </div>
@@ -441,7 +441,7 @@
                                     <img src="/assets/media/portfolio-images/portfolio-4.jpg" alt="">
                                 </div>
                                 <div class="portfolio-name">
-                                    <span>Restaraunt web app “Foody”</span>
+                                    <span></span>
                                 </div>
                                 <div class="portfolio-date">
                                     <span>May, 2014</span>
@@ -507,7 +507,7 @@
     </div>
 </section>
 
-<section id="feedback" class="section">
+<!-- <section id="feedback" class="section">
     <div class="container">
         <div class="row wave-bg">
             <div class="zigzag wow slideInLeft">
@@ -588,7 +588,7 @@
         </div>
     </div>
 </section>
-
+ -->
 <section id="contact" class="section">
     <div class="container">
         <div class="row wave-bg">
@@ -665,90 +665,129 @@
 <div class="modal fade" id="portfolio-modal" tabindex="-1" role="dialog" aria-labelledby="portfolio-modal">
     <div class="modal-dialog" role="document">
         <div class="modal-content" >
-            <div class="modal-body" data-name="patty">
+            <div class="modal-body" data-name="Apposha">
                 <div class="modal-title">
-                    <h1><span class="point">Startup website for Patty</span></h1>
+                    <h1><span class="point">Startup Web Application, CMS and Database as a Service (DBaaS) for Apposha.io</span></h1>
                 </div>
                 <div class="modal-description">
-                    <p>Patty Startup is the perfect shop. I did my best and prepared
-                        12 highly customizable pages to present all startup's products. Upon
-                        opening this product you will see stylish and unique layouts thoroughly
-                        organized into their appropriate groups.</p>
+                    <p>I developed an application similar to Amazon Web Services (AWS) to provide a database as a service tool. I developed a Content Management System (CMS) to accommodate such tools. The application was a multiuser platform which familiarized me with server problems such as double spending and databases Atomicity and Consistency properties. Working at Apposha also gave me experience in using AWS tools such as Elastic Beanstalk, Elasticsearch, CloudFormation, and Route53. Throughout my work, we acquired multiple government startup support and venture capital investment up to $200000.</p>
                 </div>
                 <div class="about-me-info">
                     <p>
                         <span class="span-title">Stack</span>
-                        <span>HTML, CSS, Bootstrap, Javascript, SVG</span>
+                        <span>PHP LARAVEL, HTML, CSS, Bootstrap, Javascript, MySQL</span>
                     </p>
                     <p>
                         <span class="span-title">Date</span>
-                        <span>April, 2017</span>
+                        <span>April, 2018</span>
                     </p>
                 </div>
                 <div class="modal-images">
-                    <img src="/assets/media/modal-images/modal-image-1.jpg" alt="">
-                    <img src="/assets/media/modal-images/modal-image-2.jpg" alt="">
+                    <img src="/assets/media/modal-images/Apposha/Landing-Page.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/Landing-Page-2.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/Landing-Page-3.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/SignIn.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/Signup.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/Reset-Password.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/Cluster-Create-Page.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/Cluster-Create-Korean-Lang-Page.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/System-Monitoring-Page.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/System-Monitoring-Page-2.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/Clusters-Configuration-Page.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/Clusters-Index.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/Cluster-Configuration-2.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/Help-Drawer.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/Invoice-Page.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/Invoice-to-PDF.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/Peer-Connection-Setting-Modal.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/Projects-Index.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/Project-Create-Page.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/Projects-Edit.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/Account-Setting-Page.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/Account-Delete-Modal.png" alt="">
+                    <img src="/assets/media/modal-images/Apposha/SuperAdmin-Links.png" alt="">
                 </div>
                 <div class="about-btns">
-                    <a href="#" class="site-btn">VIsit Website</a>
+    
+                    <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
+                    <p>&nbsp;</p>
+                    <p><small>*Contact me to visit the website. Username and password are required</small></p>
+                </div>
+            </div>
+            <div class="modal-body" data-name="ubutoday">
+                <div class="modal-title">
+                    <h1><span class="point">UBUToday Website Builder and CMS</span></h1>
+                </div>
+                <div class="modal-description">
+                    <p>I designed a website builder and Content management system from scratch for UBUToday. UBU Today is a non-profit organization that provides education, resources, workshops and access to world-renowned natural techniques as a springboard for renewed personal growth, hope and healing. </p>
+                </div>
+                <div class="about-me-info">
+                    <p>
+                        <span class="span-title">Stack</span>
+                        <span>PHP LARAVEL, HTML, CSS, Bootstrap, Javascript, MySQL, Socket.io, GoogleMap API</span>
+                    </p>
+                    <p>
+                        <span class="span-title">Date</span>
+                        <span>Present</span>
+                    </p>
+                </div>
+                <div class="modal-images">
+                    <img src="/assets/media/modal-images/UBUToday/Landing-Page-1.png" alt="">
+                    <img src="/assets/media/modal-images/UBUToday/Landing-Page-2.png" alt="">
+                    <img src="/assets/media/modal-images/UBUToday/Landing-Page-3.png" alt="">
+                    <img src="/assets/media/modal-images/UBUToday/Landing-Page-4.png" alt="">
+                    <img src="/assets/media/modal-images/UBUToday/Landing-Page-5.png" alt="">
+                    <img src="/assets/media/modal-images/UBUToday/Donation-Page.png" alt="">
+                    <img src="/assets/media/modal-images/UBUToday/Donation-Page-2.png" alt="">
+                    <img src="/assets/media/modal-images/UBUToday/Team.png" alt="">
+                    <img src="/assets/media/modal-images/UBUToday/Admin-Login.png" alt="">
+                    <img src="/assets/media/modal-images/UBUToday/Page-Creation-Index.png" alt="">
+                    <img src="/assets/media/modal-images/UBUToday/Page-Creation-Add.png" alt="">
+                    <img src="/assets/media/modal-images/UBUToday/Menu-Navigation-Creation-Add.png" alt="">
+                    <img src="/assets/media/modal-images/UBUToday/Menu-Navigation-Creation-Index.png" alt="">
+                    <img src="/assets/media/modal-images/UBUToday/Menu-Navigation-Order-Page.png" alt="">
+                    <img src="/assets/media/modal-images/UBUToday/Website-Mode-Control.png" alt="">
+                </div>
+                <div class="about-btns">
+                    <a href="https://www.ubutoday.com" class="site-btn">Visit Website</a>
                     <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
                 </div>
             </div>
-            <div class="modal-body" data-name="phoenix">
+            <div class="modal-body" data-name="emmanuelsrug">
                 <div class="modal-title">
-                    <h1><span class="point">Startup website for Phoenix</span></h1>
+                    <h1><span class="point">Emmanuelsrug Website Builder and CMS</span></h1>
                 </div>
                 <div class="modal-description">
-                    <p>Phoenix Startup is the perfect shop. I did my best and prepared
-                        12 highly customizable pages to present all startup's products. Upon
-                        opening this product you will see stylish and unique layouts thoroughly
-                        organized into their appropriate groups.</p>
+                    <p>I designed a website builder and Content management system from scratch for Emmanuelsrug. Gained extensive client relationship experience and received great reviews.</p>
                 </div>
                 <div class="about-me-info">
                     <p>
                         <span class="span-title">Stack</span>
-                        <span>HTML, CSS, Bootstrap, Javascript, SVG</span>
+                        <span>PHP LARAVEL, HTML, CSS, Bootstrap, Javascript, MySQL</span>
                     </p>
                     <p>
                         <span class="span-title">Date</span>
-                        <span>March, 2016</span>
+                        <span>March, 2015</span>
                     </p>
                 </div>
                 <div class="modal-images">
-                    <img src="/assets/media/modal-images/modal-image-1.jpg" alt="">
-                    <img src="/assets/media/modal-images/modal-image-2.jpg" alt="">
+                    <img src="/assets/media/modal-images/EmmanuelsRug/Landing-Page.png" alt="">
+                    <img src="/assets/media/modal-images/EmmanuelsRug/Admin-Login.png" alt="">
+                    <img src="/assets/media/modal-images/EmmanuelsRug/Manage-Resources-Index-1.png" alt="">
+                    <img src="/assets/media/modal-images/EmmanuelsRug/Company-Info-Setup-Page.png" alt="">
+                    <img src="/assets/media/modal-images/EmmanuelsRug/Company-Info-Edit-Page-1.png" alt="">
+                    <img src="/assets/media/modal-images/EmmanuelsRug/Company-Info-Edit-Page-2.png" alt="">
+                    <img src="/assets/media/modal-images/EmmanuelsRug/Company-Info-Setup-Page-2.png" alt="">
+                    <img src="/assets/media/modal-images/EmmanuelsRug/Dynamic-Navbar-Creation-Index.png" alt="">
+                    <img src="/assets/media/modal-images/EmmanuelsRug/Dynamic-Navbar-Creation-Edit.png" alt="">
+                    <img src="/assets/media/modal-images/EmmanuelsRug/Page-Creation-Index.png" alt="">
+                    <img src="/assets/media/modal-images/EmmanuelsRug/Page-Creation-Add-1.png" alt="">
+                    <img src="/assets/media/modal-images/EmmanuelsRug/Page-Creation-Add-2.png" alt="">
+                    <img src="/assets/media/modal-images/EmmanuelsRug/User-Control-Index.png" alt="">
+                    <img src="/assets/media/modal-images/EmmanuelsRug/User-Control-Edit.png" alt="">
                 </div>
                 <div class="about-btns">
-                    <a href="#" class="site-btn">VIsit Website</a>
-                    <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
-                </div>
-            </div>
-            <div class="modal-body" data-name="ewesta">
-                <div class="modal-title">
-                    <h1><span class="point">Startup website for eWesta</span></h1>
-                </div>
-                <div class="modal-description">
-                    <p>eWesta Startup is the perfect shop. I did my best and prepared
-                        12 highly customizable pages to present all startup's products. Upon
-                        opening this product you will see stylish and unique layouts thoroughly
-                        organized into their appropriate groups.</p>
-                </div>
-                <div class="about-me-info">
-                    <p>
-                        <span class="span-title">Stack</span>
-                        <span>HTML, CSS, Bootstrap, Javascript, SVG</span>
-                    </p>
-                    <p>
-                        <span class="span-title">Date</span>
-                        <span>December, 2015</span>
-                    </p>
-                </div>
-                <div class="modal-images">
-                    <img src="/assets/media/modal-images/modal-image-1.jpg" alt="">
-                    <img src="/assets/media/modal-images/modal-image-2.jpg" alt="">
-                </div>
-                <div class="about-btns">
-                    <a href="#" class="site-btn">VIsit Website</a>
+                    <a href="http://www.emmanuelsrug.com/" class="site-btn">VIsit Website</a>
                     <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
                 </div>
             </div>
