@@ -272,7 +272,7 @@
                             <p class="about-info">Eyelevate</p>
                             <p>Mar, 2014 – Mar, 2015</p>
                             <div class="opacity-box">
-                                <p>I completed 5 projects at Eyelevate. I was in charge of developing responsive web applications using the MVC framework (PHP/Laravel) and integration with many APIs. Git was used as the version-control software. Applications server side was completed using Linux, Apache2, MySQL, and PHP (LAMP Stack), and the client side completed using HTML5, CSS3, and JavaScript. I achieve great client satisfaction and recognition at Eyelevate.</p>
+                                <p>I completed 5 projects at Eyelevate. I was in charge of developing responsive web applications using the MVC framework (PHP/Laravel) and integration with many APIs. Git was used as the version-control software. Applications server side was completed using Linux, Apache2, MySQL, and PHP (blik Stack), and the client side completed using HTML5, CSS3, and JavaScript. I achieve great client satisfaction and recognition at Eyelevate.</p>
                             </div>
                         </div>
                     </div>
@@ -386,8 +386,7 @@
                     <ul class="list-inline">
                         <li class="colored-link" data-mixitup-control data-filter="all">All projects</li>
                         <li class="colored-link" data-mixitup-control data-filter=".web-sites">Web sites</li>
-                        <li class="colored-link" data-mixitup-control data-filter=".ui-ux-design">UI\UX design</li>
-                        <li class="colored-link" data-mixitup-control data-filter=".frontend">Frontend</li>
+                        <li class="colored-link" data-mixitup-control data-filter=".apps">Android & iOS Apps</li>
                     </ul>
                 </div>
             </div>
@@ -409,7 +408,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-3 col-sm-6 col-xs-6 mix frontend wow flipInX">
+                        <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
                             <a data-toggle="modal" data-target="#portfolio-modal" data-name="ubutoday" title="UBUToday" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
                                     <img src="/assets/media/portfolio-images/UBUToday/Landing-Page-2.png" alt="">
@@ -435,55 +434,42 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-3 col-sm-6 col-xs-6 mix frontend wow flipInX">
-                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="foody"  title="Restaraunt web app “Foody”" href="#" class="portfolio-box">
+                        <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
+                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="wendyjomorrison" title="wendyjomorrison" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/portfolio-4.jpg" alt="">
+                                    <img src="/assets/media/portfolio-images/wendyjomorrison/Landing-Page-1.png" alt="">
                                 </div>
                                 <div class="portfolio-name">
-                                    <span></span>
+                                    <span>Jo-M-s-Portfolio-Project</span>
                                 </div>
                                 <div class="portfolio-date">
-                                    <span>May, 2014</span>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-md-3 col-sm-6 col-xs-6 mix ui-ux-design wow flipInX">
-                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="stark" title="Game website “Stark”" href="#" class="portfolio-box">
-                                <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/portfolio-5.jpg" alt="">
-                                </div>
-                                <div class="portfolio-name">
-                                    <span>Game website “Stark”</span>
-                                </div>
-                                <div class="portfolio-date">
-                                    <span>June, 2014</span>
+                                    <span>June, 2017</span>
                                 </div>
                             </a>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
-                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="te4h" title="Blogger website “Te4h”" href="#" class="portfolio-box">
+                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="kpike" title="KPIKE Website Builder, CMS, and Scheduler" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/portfolio-6.jpg" alt="">
+                                    <img src="/assets/media/portfolio-images/kpike/Landing-Page-1.png" alt="">
                                 </div>
                                 <div class="portfolio-name">
-                                    <span>Blogger website “Te4h”</span>
+                                    <span>KPIKE Website Builder, CMS, and Scheduler</span>
                                 </div>
                                 <div class="portfolio-date">
-                                    <span>April, 2014</span>
+                                    <span>April, 2018</span>
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-3 col-sm-6 col-xs-6 mix frontend wow flipInX">
-                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="lamp" title="Product website “Lamp”" href="#" class="portfolio-box">
+                        <div class="col-md-3 col-sm-6 col-xs-6 mix apps wow flipInX">
+                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="blik" title="blik" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/portfolio-7.jpg" alt="">
+                                    <img src="/assets/media/portfolio-images/BLIK/Landing-Screen.png" alt="">
                                 </div>
                                 <div class="portfolio-name">
-                                    <span>Product website “Lamp”</span>
+                                    <span>Better Life In Korea (BLIK) Phone App</span>
                                 </div>
                                 <div class="portfolio-date">
-                                    <span>December, 2013</span>
+                                    <span>Agust, 2017</span>
                                 </div>
                             </a>
                         </div>
@@ -708,6 +694,7 @@
                     <img src="/assets/media/modal-images/Apposha/SuperAdmin-Links.png" alt="">
                 </div>
                 <div class="about-btns">
+
     
                     <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
                     <p>&nbsp;</p>
@@ -791,49 +778,23 @@
                     <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
                 </div>
             </div>
-            <div class="modal-body" data-name="foody">
+            <div class="modal-body" data-name="wendyjomorrison">
                 <div class="modal-title">
-                    <h1><span class="point">Startup website for Foody</span></h1>
+                    <h1><span class="point">Wendyjomorrison Portfolio</span></h1>
                 </div>
                 <div class="modal-description">
-                    <p>Foody Startup is the perfect shop. I did my best and prepared
-                        12 highly customizable pages to present all startup's products. Upon
-                        opening this product you will see stylish and unique layouts thoroughly
-                        organized into their appropriate groups.</p>
+                    <p><strong>What Did I learned?</strong></p>  
+                    <ul>
+                        <li>Laravel 5.2</li>
+                        <li>HTML templating</li>
+                        <li>CSS, JavaScript</li>
+                    </ul>
+                    <a href="https://github.com/pedramvdl31/Jo-M-s-Portfolio-Project" style="color: blue">https://github.com/pedramvdl31/Jo-M-s-Portfolio-Project</a>
                 </div>
                 <div class="about-me-info">
                     <p>
                         <span class="span-title">Stack</span>
-                        <span>HTML, CSS, Bootstrap, Javascript, SVG</span>
-                    </p>
-                    <p>
-                        <span class="span-title">Date</span>
-                        <span>May, 2014</span>
-                    </p>
-                </div>
-                <div class="modal-images">
-                    <img src="/assets/media/modal-images/modal-image-1.jpg" alt="">
-                    <img src="/assets/media/modal-images/modal-image-2.jpg" alt="">
-                </div>
-                <div class="about-btns">
-                    <a href="#" class="site-btn">VIsit Website</a>
-                    <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
-                </div>
-            </div>
-            <div class="modal-body" data-name="stark">
-                <div class="modal-title">
-                    <h1><span class="point">Startup website for Stark</span></h1>
-                </div>
-                <div class="modal-description">
-                    <p>Stark Startup is the perfect shop. I did my best and prepared
-                        12 highly customizable pages to present all startup's products. Upon
-                        opening this product you will see stylish and unique layouts thoroughly
-                        organized into their appropriate groups.</p>
-                </div>
-                <div class="about-me-info">
-                    <p>
-                        <span class="span-title">Stack</span>
-                        <span>HTML, CSS, Bootstrap, Javascript, SVG</span>
+                        <span>PHP LARAVEL, HTML, CSS, Bootstrap, Javascript, MySQL</span>
                     </p>
                     <p>
                         <span class="span-title">Date</span>
@@ -841,69 +802,98 @@
                     </p>
                 </div>
                 <div class="modal-images">
-                    <img src="/assets/media/modal-images/modal-image-1.jpg" alt="">
-                    <img src="/assets/media/modal-images/modal-image-2.jpg" alt="">
+                    <img src="/assets/media/modal-images/wendyjomorrison/Landing-Page-1.png" alt="">
+                    <img src="/assets/media/modal-images/wendyjomorrison/Landing-Page-2.png" alt="">
+                    <img src="/assets/media/modal-images/wendyjomorrison/Landing-Page-3.png" alt="">
                 </div>
                 <div class="about-btns">
-                    <a href="#" class="site-btn">VIsit Website</a>
+                    <a href="http://wendyjomorrison.com/" class="site-btn">VIsit Website</a>
                     <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
                 </div>
             </div>
-            <div class="modal-body" data-name="te4h">
+            <div class="modal-body" data-name="kpike">
                 <div class="modal-title">
-                    <h1><span class="point">Startup website for Te4h</span></h1>
+                    <h1><span class="point">KPIKE Website Builder, CMS, and Scheduler</span></h1>
                 </div>
                 <div class="modal-description">
-                    <p>Te4h Startup is the perfect shop. I did my best and prepared
-                        12 highly customizable pages to present all startup's products. Upon
-                        opening this product you will see stylish and unique layouts thoroughly
-                        organized into their appropriate groups.</p>
+                    <p>Built a website builder and CMS from scratch (WebPrinciples). New pages can be added to the website using drag and drop. Menu navigation can be added, edited and sorted. A complete developer independent system. similar concept to WordPress.</p>
+                    <p><strong>What Did I learned?</strong></p>   
+                    <ul>
+                        <li>Laravel 5.2</li>
+                        <li>Dynamic routing using database</li>
+                        <li>Parse JSON data</li>
+                        <li>Parallax scrolling effect</li>
+                        <li>Jquery Sortables</li>
+                        <li>Hosting on a shared host environment without root privileges</li>
+                        <li>API integration</li>
+                    </ul>
+                    <a href="https://github.com/pedramvdl31/Kpike-Consulting-Solutions" style="color: blue">https://github.com/pedramvdl31/Kpike-Consulting-Solutions</a>
                 </div>
                 <div class="about-me-info">
                     <p>
                         <span class="span-title">Stack</span>
-                        <span>HTML, CSS, Bootstrap, Javascript, SVG</span>
+                        <span>PHP LARAVEL, HTML, CSS, Bootstrap, Javascript, MySQL</span>
                     </p>
                     <p>
                         <span class="span-title">Date</span>
-                        <span>April, 2014</span>
+                        <span>April, 2018</span>
                     </p>
                 </div>
                 <div class="modal-images">
-                    <img src="/assets/media/modal-images/modal-image-1.jpg" alt="">
-                    <img src="/assets/media/modal-images/modal-image-2.jpg" alt="">
+                    <img src="/assets/media/modal-images/kpike/Landing-Page-1.png" alt="">
+                    <img src="/assets/media/modal-images/kpike/Landing-Page-2.png" alt="">
+                    <img src="/assets/media/modal-images/kpike/Landing-Page-3.png" alt="">
+                    <img src="/assets/media/modal-images/kpike/Landing-Page-4.png" alt="">
+                    <img src="/assets/media/modal-images/kpike/Admin-Page.png" alt="">
+                    <img src="/assets/media/modal-images/kpike/Custom-Menu-Index.png" alt="">
+                    <img src="/assets/media/modal-images/kpike/Custom-Menu-Add.png" alt="">
+                    <img src="/assets/media/modal-images/kpike/Scheduler-Page.png" alt="">
+                    <img src="/assets/media/modal-images/kpike/Custom-Pages-Index.png" alt="">
+                    <img src="/assets/media/modal-images/kpike/Menu-Sorting.png" alt="">
                 </div>
                 <div class="about-btns">
-                    <a href="#" class="site-btn">VIsit Website</a>
+                    <a href="http://www.kpikeconsultingsolutions.com/" class="site-btn">VIsit Website</a>
                     <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
                 </div>
             </div>
-            <div class="modal-body" data-name="lamp">
+            <div class="modal-body" data-name="blik">
                 <div class="modal-title">
-                    <h1><span class="point">Startup website for Lamp</span></h1>
+                    <h1><span class="point">Better Life In Korea (BLIK) Phone App</span></h1>
                 </div>
                 <div class="modal-description">
-                    <p>Lamp Startup is the perfect shop. I did my best and prepared
-                        12 highly customizable pages to present all startup's products. Upon
-                        opening this product you will see stylish and unique layouts thoroughly
-                        organized into their appropriate groups.</p>
+                    <p>PhoneGap Cordova App for People to find businesses and navigate to it using GPS</p>
+                    <p><strong>What Did I learned?</strong></p> 
+                    <ul>
+                        <li>Mobile Application Development</li>
+                        <li>Cordova and PhoneGap</li>
+                        <li>Latitude and Longitude Calculations</li>
+                        <li>Phone App privileges on different devices</li>
+                        <li>Framework 7 UI design</li>
+                        <li>Android and iOS developer account. submission and rollouts</li>
+                    </ul>
+
                 </div>
                 <div class="about-me-info">
                     <p>
                         <span class="span-title">Stack</span>
-                        <span>HTML, CSS, Bootstrap, Javascript, SVG</span>
+                        <span>Cordova, JavaScript, Android, iOS</span>
                     </p>
                     <p>
                         <span class="span-title">Date</span>
-                        <span>December, 2013</span>
+                        <span>August, 2017</span>
                     </p>
                 </div>
                 <div class="modal-images">
-                    <img src="/assets/media/modal-images/modal-image-1.jpg" alt="">
-                    <img src="/assets/media/modal-images/modal-image-2.jpg" alt="">
+                    <img src="/assets/media/modal-images/BLIK/Splash.PNG" alt="">
+                    <img src="/assets/media/modal-images/BLIK/Landing-Screen.PNG" alt="">
+                    <img src="/assets/media/modal-images/BLIK/Categories.PNG" alt="">
+                    <img src="/assets/media/modal-images/BLIK/Map-View.PNG" alt="">
+                    <img src="/assets/media/modal-images/BLIK/Reviews-and-Options.PNG" alt="">
+                    <img src="/assets/media/modal-images/BLIK/Post-View.PNG" alt="">
+                    <img src="/assets/media/modal-images/BLIK/Navigation-Options.PNG" alt="">
+                    <img src="/assets/media/modal-images/BLIK/Transition-to-Navigation.PNG" alt="">
                 </div>
                 <div class="about-btns">
-                    <a href="#" class="site-btn">VIsit Website</a>
                     <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
                 </div>
             </div>
