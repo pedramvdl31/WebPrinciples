@@ -27,8 +27,8 @@
                         <li><a href="#experience">Experience</a></li>
                         <li><a href="#education">Education</a></li>
                         <li><a href="#portfolio">Portfolio</a></li>
-                        <li><a href="#feedback">Feedback</a></li>
-                        <li><a href="#contact">Contact me</a></li>
+<!--                         <li><a href="#feedback">Feedback</a></li>
+                        <li><a href="#contact">Contact me</a></li> -->
                     </ul>
                 </div>
             </div>
@@ -53,8 +53,8 @@
             <li><a href="#experience">Experience</a></li>
             <li><a href="#education">Education</a></li>
             <li><a href="#portfolio">Portfolio</a></li>
-            <li><a href="#feedback">Feedback</a></li>
-            <li><a href="#contact">Contact me</a></li>
+            <!-- <li><a href="#feedback">Feedback</a></li> -->
+            <!-- <li><a href="#contact">Contact me</a></li> -->
         </ul>
     </div>
 </div>
@@ -411,7 +411,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
                             <a data-toggle="modal" data-target="#portfolio-modal" data-name="ubutoday" title="UBUToday" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/UBUToday/Landing-Page-2.png" alt="">
+                                    <img src="/assets/media/portfolio-images/UBUToday/Landing-Page-1.png" alt="">
                                 </div>
                                 <div class="portfolio-name">
                                     <span>UBUToday Website Builder and CMS</span>
@@ -473,16 +473,107 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-3 col-sm-6 col-xs-6 mix ui-ux-design wow flipInX">
-                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="zebra" title="Blog web app “Zebra”" href="#" class="portfolio-box">
+                        <div class="col-md-3 col-sm-6 col-xs-6 mix apps wow flipInX">
+                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="vocaptionary" title="Vocaptionary" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/portfolio-8.jpg" alt="">
+                                    <img src="/assets/media/portfolio-images/Vocaptionary/Screen-1.png" alt="">
                                 </div>
                                 <div class="portfolio-name">
-                                    <span>Blog web app “Zebra”</span>
+                                    <span>Vocaptionary Game for Learning English</span>
                                 </div>
                                 <div class="portfolio-date">
-                                    <span>March, 2013</span>
+                                    <span>July, 2016</span>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
+                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="hashcall-websitebuilder" title="hashcall-websitebuilder" href="#" class="portfolio-box">
+                                <div class="portfolio-img">
+                                    <img src="/assets/media/portfolio-images/hashcall-websitebuilder/Landing-Page.png" alt="">
+                                </div>
+                                <div class="portfolio-name">
+                                    <span>HashCall Website Builder</span>
+                                </div>
+                                <div class="portfolio-date">
+                                    <span>April, 2017</span>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
+                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="eyelevate" title="Eyelevate" href="#" class="portfolio-box">
+                                <div class="portfolio-img">
+                                    <img src="/assets/media/portfolio-images/Eyelevate/Landing-Page-1.png" alt="">
+                                </div>
+                                <div class="portfolio-name">
+                                    <span>POS system, booking management (Multipurpose application for small business).</span>
+                                </div>
+                                <div class="portfolio-date">
+                                    <span>October, 2015</span>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
+                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="wowchebit" title="Wowchebit" href="#" class="portfolio-box">
+                                <div class="portfolio-img">
+                                    <img src="/assets/media/portfolio-images/wowchebit/Landing-Page-1.png" alt="">
+                                </div>
+                                <div class="portfolio-name">
+                                    <span>Website and CMS system for cryptocurrency exchange.</span>
+                                </div>
+                                <div class="portfolio-date">
+                                    <span>February, 2016</span>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
+                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="isrc" title="Ingvision" href="#" class="portfolio-box">
+                                <div class="portfolio-img">
+                                    <img src="/assets/media/portfolio-images/isrc/Landing-Page-1.png" alt="">
+                                </div>
+                                <div class="portfolio-name">
+                                    <span>ING VISION 3D Scanner Website.</span>
+                                </div>
+                                <div class="portfolio-date">
+                                    <span>April, 2017</span>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
+                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="hciipot" title="Ingvision" href="#" class="portfolio-box">
+                                <div class="portfolio-img">
+                                    <img src="/assets/media/portfolio-images/hciipot/Landing-Page-1.png" alt="">
+                                </div>
+                                <div class="portfolio-name">
+                                    <span>A Admin Page Demo for smart flower pot</span>
+                                </div>
+                                <div class="portfolio-date">
+                                    <span>May, 2017</span>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
+                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="Screen-Fantastic-Games" title="Screen-Fantastic-Games" href="#" class="portfolio-box">
+                                <div class="portfolio-img">
+                                    <img src="/assets/media/portfolio-images/Screen-Fantastic-Games/Landing-Page-1.png" alt="">
+                                </div>
+                                <div class="portfolio-name">
+                                    <span>Website and CMS for publishing articles and sharing video gameplays</span>
+                                </div>
+                                <div class="portfolio-date">
+                                    <span>January, 2016</span>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
+                            <a data-toggle="modal" data-target="#portfolio-modal" data-name="Project-Reviews" title="Project-Reviews" href="#" class="portfolio-box">
+                                <div class="portfolio-img">
+                                    <img src="/assets/media/portfolio-images/Project-Reviews/Landing-Page.png" alt="">
+                                </div>
+                                <div class="portfolio-name">
+                                    <span>A demo website. A platform where users can review different projects.</span>
+                                </div>
+                                <div class="portfolio-date">
+                                    <span>February, 2016</span>
                                 </div>
                             </a>
                         </div>
@@ -575,7 +666,7 @@
     </div>
 </section>
  -->
-<section id="contact" class="section">
+<!-- <section id="contact" class="section">
     <div class="container">
         <div class="row wave-bg">
             <div class="zigzag wow slideInLeft">
@@ -633,14 +724,14 @@
             </form>
         </div>
     </div>
-</section>
+</section> -->
 
 <footer class="footer text-center">
     <div class="container">
         <div class="row">
             <div class="col-md-12 wow zoomIn">
                 <div class="copyright">
-                    <p>Copyright 2017 Pedram.</p>
+                    <p>Copyright 2019 Pedram.</p>
                 </div>
             </div>
         </div>
@@ -657,6 +748,17 @@
                 </div>
                 <div class="modal-description">
                     <p>I developed an application similar to Amazon Web Services (AWS) to provide a database as a service tool. I developed a Content Management System (CMS) to accommodate such tools. The application was a multiuser platform which familiarized me with server problems such as double spending and databases Atomicity and Consistency properties. Working at Apposha also gave me experience in using AWS tools such as Elastic Beanstalk, Elasticsearch, CloudFormation, and Route53. Throughout my work, we acquired multiple government startup support and venture capital investment up to $200000.</p>
+                    <p><strong>What Did I learned?</strong></p>  
+                    <ul>
+                        <li>Laravel 5</li>
+                        <li>MVC Programming</li>
+                        <li>PHP Framework Programming</li>
+                        <li>MYSQL seeding and migration</li>
+                        <li>HTML, CSS, JavaScript</li>
+                        <li>Linux, APACHE, MySQL, PHP(LAMP) set up</li>
+                        <li>Vagrant Local Virtual Machine</li>
+                        <li>& much more</li>
+                    </ul>
                 </div>
                 <div class="about-me-info">
                     <p>
@@ -706,7 +808,19 @@
                     <h1><span class="point">UBUToday Website Builder and CMS</span></h1>
                 </div>
                 <div class="modal-description">
-                    <p>I designed a website builder and Content management system from scratch for UBUToday. UBU Today is a non-profit organization that provides education, resources, workshops and access to world-renowned natural techniques as a springboard for renewed personal growth, hope and healing. </p>
+                    <p>A Website builder and Content management system from scratch for UBUToday. UBU Today is a non-profit organization that provides education, resources, workshops and access to world-renowned natural techniques as a springboard for renewed personal growth, hope and healing.</p>
+                    <p><strong>What Did I learned?</strong></p>  
+                    <ul>
+                        <li>Laravel 5</li>
+                        <li>MVC Programming</li>
+                        <li>PHP Framework Programming</li>
+                        <li>MYSQL seeding and migration</li>
+                        <li>HTML, CSS, JavaScript</li>
+                        <li>Linux, APACHE, MySQL, PHP(LAMP) set up</li>
+                        <li>Vagrant Local Virtual Machine</li>
+                        <li>& much more</li>
+                    </ul>
+                    <a href="https://github.com/pedramvdl31/UBUToday" style="color: blue">https://github.com/pedramvdl31/UBUToday</a>
                 </div>
                 <div class="about-me-info">
                     <p>
@@ -871,7 +985,6 @@
                         <li>Framework 7 UI design</li>
                         <li>Android and iOS developer account. submission and rollouts</li>
                     </ul>
-
                 </div>
                 <div class="about-me-info">
                     <p>
@@ -897,20 +1010,23 @@
                     <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
                 </div>
             </div>
-            <div class="modal-body" data-name="zebra">
+            <div class="modal-body" data-name="vocaptionary">
                 <div class="modal-title">
-                    <h1><span class="point">Startup website for Zebra</span></h1>
+                    <h1><span class="point">Vocaptionary Game for Learning English</span></h1>
                 </div>
                 <div class="modal-description">
-                    <p>Zebra Startup is the perfect shop. I did my best and prepared
-                        12 highly customizable pages to present all startup's products. Upon
-                        opening this product you will see stylish and unique layouts thoroughly
-                        organized into their appropriate groups.</p>
+                    <p>Fun and simple game for learning English. Originally created this with a group mate @biyangdo for venture capital competition KStartup. We were among the teams that were selected.</p>
+                    <p><strong>What Did I learned?</strong></p> 
+                    <ul>
+                        <li>HTML, CSS, JavaScript</li>
+                        <li>jQuery Mobile UI Library</li>
+                        <li>CSS Mobile optimization and hardware-acceleration</li>
+                    </ul>
                 </div>
                 <div class="about-me-info">
                     <p>
                         <span class="span-title">Stack</span>
-                        <span>HTML, CSS, Bootstrap, Javascript, SVG</span>
+                        <span>HTML, CSS, Bootstrap, JavaScript, jQuery Mobile</span>
                     </p>
                     <p>
                         <span class="span-title">Date</span>
@@ -918,11 +1034,257 @@
                     </p>
                 </div>
                 <div class="modal-images">
-                    <img src="/assets/media/modal-images/modal-image-1.jpg" alt="">
-                    <img src="/assets/media/modal-images/modal-image-2.jpg" alt="">
+                    <img src="/assets/media/modal-images/Vocaptionary/Screen-1.png" alt="">
+                    <img src="/assets/media/modal-images/Vocaptionary/Screen-2.png" alt="">
+                    <img src="/assets/media/modal-images/Vocaptionary/Screen-3.png" alt="">
+                    <img src="/assets/media/modal-images/Vocaptionary/Screen-4.png" alt="">
+                    <img src="/assets/media/modal-images/Vocaptionary/Screen-5.png" alt="">
+                    <img src="/assets/media/modal-images/Vocaptionary/Screen-6.png" alt="">
                 </div>
                 <div class="about-btns">
-                    <a href="#" class="site-btn">VIsit Website</a>
+                    <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
+                </div>
+            </div>
+            <div class="modal-body" data-name="hashcall-websitebuilder">
+                <div class="modal-title">
+                    <h1><span class="point">HashCall Website Builder</span></h1>
+                </div>
+                <div class="modal-description">
+                    <p>Demo website builder with multiple themes to select from.</p>
+                    <p><strong>What Did I learned?</strong></p>  
+                    <ul>
+                        <li>Laravel 5.2</li>
+                        <li>HTML templating</li>
+                        <li>CSS, JavaScript</li>
+                    </ul>
+                    <a href="https://github.com/pedramvdl31/hashcall-websitebuilder" style="color: blue">https://github.com/pedramvdl31/hashcall-websitebuilder</a>
+                </div>
+                <div class="about-me-info">
+                    <p>
+                        <span class="span-title">Stack</span>
+                        <span>PHP Laravel 5, MySQL, HTML, CSS(Bootstrap 3), JavaScript & JQuery</span>
+                    </p>
+                    <p>
+                        <span class="span-title">Date</span>
+                        <span>April, 2017</span>
+                    </p>
+                </div>
+                <div class="modal-images">
+                    <img src="/assets/media/modal-images/hashcall-websitebuilder/Landing-Page.png" alt="">
+                    <img src="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit.png" alt="">
+                    <img src="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-2.png" alt="">
+                    <img src="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-3.png" alt="">
+                    <img src="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-4.png" alt="">
+                </div>
+                <div class="about-btns">
+                    <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
+                </div>
+            </div>
+            <div class="modal-body" data-name="eyelevate">
+                <div class="modal-title">
+                    <h1><span class="point">Eyelevate</span></h1>
+                </div>
+                <div class="modal-description">
+                    <p>POS system, booking management (Multipurpose application for small business).</p>
+                    <p><strong>What Did I learned?</strong></p>  
+                    <ul>
+                        <li>Laravel 5</li>
+                        <li>MVC Programming</li>
+                        <li>PHP Framework Programming</li>
+                        <li>MYSQL seeding and migration</li>
+                        <li>HTML, CSS, JavaScript</li>
+                        <li>Linux, APACHE, MySQL, PHP(LAMP) set up</li>
+                        <li>Vagrant Local Virtual Machine</li>
+                        <li>& much more</li>
+                    </ul>
+                </div>
+                <div class="about-me-info">
+                    <p>
+                        <span class="span-title">Stack</span>
+                        <span>PHP Laravel 5, MySQL, HTML, CSS(Bootstrap 3), JavaScript & JQuery</span>
+                    </p>
+                    <p>
+                        <span class="span-title">Date</span>
+                        <span>October, 2015</span>
+                    </p>
+                </div>
+                <div class="modal-images">
+                    <img src="/assets/media/modal-images/Eyelevate/Landing-Page-1.png" alt="">
+                    <img src="/assets/media/modal-images/Eyelevate/Home.png" alt="">
+                    <img src="/assets/media/modal-images/Eyelevate/Profile-Page.png" alt="">
+                </div>
+                <div class="about-btns">
+                    <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
+                </div>
+            </div>
+            <div class="modal-body" data-name="wowchebit">
+                <div class="modal-title">
+                    <h1><span class="point">Wowchebit</span></h1>
+                </div>
+                <div class="modal-description">
+                    <p>Website and CMS system for cryptocurrency exchange.</p>
+                    <p><strong>What Did I learned?</strong></p>  
+                    <ul>
+                        <li>Laravel 5</li>
+                        <li>MVC Programming</li>
+                        <li>PHP Framework Programming</li>
+                        <li>MYSQL seeding and migration</li>
+                        <li>HTML, CSS, JavaScript</li>
+                        <li>Linux, APACHE, MySQL, PHP(LAMP) set up</li>
+                        <li>Vagrant Local Virtual Machine</li>
+                    </ul>
+                </div>
+                <div class="about-me-info">
+                    <p>
+                        <span class="span-title">Stack</span>
+                        <span>PHP Laravel 5, MySQL, HTML, CSS(Bootstrap 3), JavaScript & JQuery</span>
+                    </p>
+                    <p>
+                        <span class="span-title">Date</span>
+                        <span>February, 2016</span>
+                    </p>
+                </div>
+                <div class="modal-images">
+                    <img src="/assets/media/modal-images/wowchebit/Landing-Page-1.png" alt="">
+                    <img src="/assets/media/modal-images/wowchebit/Landing-Page-2.png" alt="">
+                    <img src="/assets/media/modal-images/wowchebit/Landing-Page-3.png" alt="">
+                    <img src="/assets/media/modal-images/wowchebit/Landing-Page-4.png" alt="">
+                    <img src="/assets/media/modal-images/wowchebit/Payments-Index.png" alt="">
+                    <img src="/assets/media/modal-images/wowchebit/Profit-Rate-Index.png" alt="">
+                    <img src="/assets/media/modal-images/wowchebit/Admins-Buy-Sell-Index.png" alt="">
+                </div>
+                <div class="about-btns">
+                    <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
+                </div>
+            </div>
+            <div class="modal-body" data-name="isrc">
+                <div class="modal-title">
+                    <h1><span class="point">ING VISION 3D SCANNER WEBSITE</span></h1>
+                </div>
+                <div class="modal-description">
+                    <p>Static Website</p>
+                    <p><strong>What Did I learned?</strong></p>  
+                    <ul>
+                        <li>Laravel 5</li>
+                        <li>MVC Programming</li>
+                        <li>HTML, CSS, JavaScript</li>
+                        <li>Linux, APACHE, MySQL, PHP(LAMP) set up</li>
+                        <li>MAILGUN Email API integration</li>
+                    </ul>
+                </div>
+                <div class="about-me-info">
+                    <p>
+                        <span class="span-title">Stack</span>
+                        <span>PHP Laravel 5, MySQL, HTML, CSS(Bootstrap 3), JavaScript & JQuery, Mail</span>
+                    </p>
+                    <p>
+                        <span class="span-title">Date</span>
+                        <span>April, 2017</span>
+                    </p>
+                </div>
+                <div class="modal-images">
+                    <img src="/assets/media/modal-images/isrc/Landing-Page-1.png" alt="">
+                    <img src="/assets/media/modal-images/isrc/Landing-Page-2.png" alt="">
+                    <img src="/assets/media/modal-images/isrc/Landing-Page-3.png" alt="">
+                </div>
+                <div class="about-btns">
+                    <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
+                </div>
+            </div>
+            <div class="modal-body" data-name="hciipot">
+                <div class="modal-title">
+                    <h1><span class="point">Smart Flower Pot (iPot)</span></h1>
+                </div>
+                <div class="modal-description">
+                    <p>A demo project communicates with smart flower pot. This app supposedly keep track of the plant condition. Code are merely a demo of admin page without functionality.</p>
+                    <p><strong>What Did I learned?</strong></p>  
+                    <ul>
+                        <li>Laravel 5</li>
+                        <li>MVC Programming</li>
+                        <li>HTML, CSS, JavaScript</li>
+                        <li>Server communication</li>
+                        <li>3D printing</li>
+                    </ul>
+                </div>
+                <div class="about-me-info">
+                    <p>
+                        <span class="span-title">Stack</span>
+                        <span>PHP Laravel 5, MySQL, HTML, CSS(Bootstrap 3), JavaScript & JQuery</span>
+                    </p>
+                    <p>
+                        <span class="span-title">Date</span>
+                        <span>April, 2017</span>
+                    </p>
+                </div>
+                <div class="modal-images">
+                    <img src="/assets/media/modal-images/hciipot/Landing-Page-1.png" alt="">
+                    <img src="/assets/media/modal-images/hciipot/Landing-Page-2.png" alt="">
+                </div>
+                <div class="about-btns">
+                    <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
+                </div>
+            </div>
+            <div class="modal-body" data-name="Screen-Fantastic-Games">
+                <div class="modal-title">
+                    <h1><span class="point">Screen Fantastic Games</span></h1>
+                </div>
+                <div class="modal-description">
+                    <p>Website and CMS for publishing articles and sharing video gameplays</p>
+                    <p><strong>What Did I learned?</strong></p>  
+                    <ul>
+                        <li>Laravel 5</li>
+                        <li>MVC Programming</li>
+                        <li>HTML, CSS, JavaScript</li>
+                    </ul>
+                </div>
+                <div class="about-me-info">
+                    <p>
+                        <span class="span-title">Stack</span>
+                        <span>PHP Laravel 5, MySQL, HTML, CSS(Bootstrap 3), JavaScript & JQuery</span>
+                    </p>
+                    <p>
+                        <span class="span-title">Date</span>
+                        <span>January, 2016</span>
+                    </p>
+                </div>
+                <div class="modal-images">
+                    <img src="/assets/media/modal-images/Screen-Fantastic-Games/Landing-Page-1.png" alt="">
+                    <img src="/assets/media/modal-images/Screen-Fantastic-Games/Admins-Videos-Index.png" alt="">
+                    <img src="/assets/media/modal-images/Screen-Fantastic-Games/Admins-Videos-Add-Edit.png" alt="">
+                </div>
+                <div class="about-btns">
+                    <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
+                </div>
+            </div>
+            <div class="modal-body" data-name="Project-Reviews">
+                <div class="modal-title">
+                    <h1><span class="point">Project Reviews</span></h1>
+                </div>
+                <div class="modal-description">
+                    <p>A demo website. A platform where users can review different projects.</p>
+                    <p><strong>What Did I learned?</strong></p>  
+                    <ul>
+                        <li>Laravel 5</li>
+                        <li>MVC Programming</li>
+                        <li>HTML, CSS, JavaScript</li>
+                    </ul>
+                </div>
+                <div class="about-me-info">
+                    <p>
+                        <span class="span-title">Stack</span>
+                        <span>PHP Laravel 5, HTML, CSS(Bootstrap 3), JavaScript & JQuery</span>
+                    </p>
+                    <p>
+                        <span class="span-title">Date</span>
+                        <span>February, 2016</span>
+                    </p>
+                </div>
+                <div class="modal-images">
+                    <img src="/assets/media/modal-images/Project-Reviews/Landing-Page.png" alt="">
+                    <img src="/assets/media/modal-images/Project-Reviews/Landing-Page-2.png" alt="">
+                    <img src="/assets/media/modal-images/Project-Reviews/Signin-Signup.png" alt="">
+                </div>
+                <div class="about-btns">
                     <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
                 </div>
             </div>
