@@ -3,9 +3,9 @@ $(document).ready(function () {
     'use strict';
 
     //LAZY LOADING
-    $("head").append('<link rel="stylesheet" type="text/css" href="/assets/css/animate.css">');
-    $("head").append('<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css">');
-    $("head").append('<link rel="stylesheet" type="text/css" href="/assets/css/main.css">');
+    $("head").append('<link rel="preload" rel="stylesheet" type="text/css" href="/assets/css/animate.css">');
+    $("head").append('<link rel="preload" rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css">');
+    $("head").append('<link rel="preload" rel="stylesheet" type="text/css" href="/assets/css/main.css">');
     
 
     // Get all of the images that are marked up to lazy load
