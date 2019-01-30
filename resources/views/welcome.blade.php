@@ -9,7 +9,7 @@
     <meta property="og:description" content="Pedram Khoshnevis - Portfolio">
     <meta property="og:url" content="http://webprinciples.com">
     <meta property="og:type" content="Portfolio" />
-    <meta property="og:image" content="http://webprinciples.com/assets/media/hello-section/Pedram%20Khoshnevis%20Portfolio.jpeg" />
+    <meta property="og:image" content="http://webprinciples.com/assets/media/hello-section/2-resized.jpg" />
     <meta name="robots" content="index, follow">
     <link rel="stylesheet" type="text/css" href="/assets/css/master.css">
     <link href="https://fonts.googleapis.com/css?family=Lato|Roboto" rel="stylesheet">
@@ -72,7 +72,7 @@
         <div class="row">
             <div class="col-md-6 about-img-wrap">
                 <div class="about-img wow slideInRight">
-                    <img src="/assets/media/hello-section/Pedram Khoshnevis Portfolio.jpeg" style="object-fit: contain !important" alt="pedram khoshnevis portfolio" class="img-responsive">
+                    <img src="/assets/media/hello-section/2-resized.jpg" style="object-fit: contain !important" alt="pedram khoshnevis portfolio" class="img-responsive">
                 </div>
             </div>
             <div class="col-md-6">
