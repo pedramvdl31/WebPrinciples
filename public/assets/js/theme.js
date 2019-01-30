@@ -2,12 +2,11 @@ $(document).ready(function () {
 
     'use strict';
 
-
-
     //LAZY LOADING
-
+    $("head").append('<link rel="stylesheet" type="text/css" href="/assets/css/animate.css">');
+    $("head").append('<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css">');
+    $("head").append('<link rel="stylesheet" type="text/css" href="/assets/css/main.css">');
     
-
 
     // Get all of the images that are marked up to lazy load
     const images = document.querySelectorAll('.js-lazy-image');
@@ -18,7 +17,17 @@ $(document).ready(function () {
       threshold: 0.01
     };
 
-    setTimeout(function(){ loadImagesImmediately(imagesLoadImmediately); }, 2000);
+    setTimeout(function(){ 
+
+        $('body').removeClass("loading");
+
+        setTimeout(function(){ 
+
+            loadImagesImmediately(imagesLoadImmediately);
+
+         }, 1000);
+        
+    }, 2000);
 
     let imageCount = images.length;
     let observer;
