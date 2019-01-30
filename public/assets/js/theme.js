@@ -47,6 +47,24 @@ $(document).ready(function () {
         });
     }
 
+
+        var url = window.location.href;
+        var host = window.location.host;
+        var array = url.split('/#');
+
+        if (array[1] != undefined) {
+
+            if ($('a[data-name='+array[1]+']').length != 0) {
+
+                $('#portfolio-modal').modal('show');
+                $(this).find('.modal-body').hide();
+                $('.modal-body[data-name = '+array[1]+']').show();
+
+            }
+            
+        }
+
+
     // //init custom select
     // $('select').customSelect();
 
@@ -57,6 +75,7 @@ $(document).ready(function () {
         // If necessary, you could initiate an AJAX request here (and then do the updating in a callback).
         // Update the modal's content. We'll use jQuery here, but you could use a data binding library or other methods instead.
         $(this).find('.modal-body').hide();
+
         $('.modal-body[data-name = ' + workName + ']').show();
     });
 

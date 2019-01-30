@@ -75,7 +75,7 @@
                     </div>
                     <div class="about-me-text">
                         <div class="opacity-box">
-                            <p>I have 5 years of professional programming experience and during this time, I have developed countless programs to solve any challenging problem that I have faced. I am team-oriented, detail-oriented, fast learner and in regards to programs developed, I pay special attention to ensure that security, integrity, and efficiencies are maintained. My studies in Computer Science with a Minor in Management has familiarized me with Customer Relationship Management (CRM), Enterprise Resource Planning (ERP) systems, Project Management, and Business Analysis.</p>
+                            <p>I have 5 years of professional programming experience and during this time, I have developed countless programs to solve any challenging problem that I have faced. I am a team-oriented, detail-oriented, fast learner and in regards to programs developed, I pay special attention to ensure that security, integrity, and efficiencies are maintained. My studies in Computer Science with a Minor in Management has familiarized me with Customer Relationship Management (CRM), Enterprise Resource Planning (ERP) systems, Project Management, and Business Analysis.</p>
                         </div>
                     </div>
                     <div class="about-me-info">
@@ -116,8 +116,8 @@
                         </p>
                     </div>
                     <div class="about-btns">
-                        <a data-toggle="modal" data-target="#contact-modal" href="#" class="site-btn">Contact me</a>
-                        <a href="./download/example.pdf" class="site-btn gray-btn">Download cv</a>
+                        <!-- <a data-toggle="modal" data-target="#contact-modal" href="#" class="site-btn">Contact me</a> -->
+                        <a href="/assets/resume/Pedram Khoshnevis Resume.pdf" class="site-btn gray-btn">Download cv</a>
                     </div>
                 </div>
             </div>
@@ -259,7 +259,7 @@
                             <p class="about-info">Apposha.io</p>
                             <p>Jul, 2017 – Apr, 2018</p>
                             <div class="opacity-box">
-                                <p>I developed an application similar to Amazon Web Services (AWS) to provide a database as a service tool. I developed a Content Management System (CMS) to accommodate such tools. The application was a multiuser platform which familiarized me with server problems such as double spending and databases Atomicity and Consistency properties. Working at Apposha also gave me experience in using AWS tools such as Elastic Beanstalk, Elasticsearch, CloudFormation, and Route53. Throughout my work, we acquired multiple government startup support and venture capital investment up to $200000.</p>
+                                <p>An application similar to Amazon Web Services (AWS) to provide a database as a service tool. I developed a Content Management System (CMS) to accommodate such tools. The application was a multiuser platform which familiarized me with server problems such as double spending and databases Atomicity and Consistency properties. Working at Apposha also gave me experience in using AWS tools such as Elastic Beanstalk, Elasticsearch, CloudFormation, and Route53. Throughout my work, we acquired multiple government startup support and venture capital investments.</p>
                             </div>
                         </div>
                     </div>
@@ -747,15 +747,15 @@
                     <h1><span class="point">Startup Web Application, CMS and Database as a Service (DBaaS) for Apposha.io</span></h1>
                 </div>
                 <div class="modal-description">
-                    <p>I developed an application similar to Amazon Web Services (AWS) to provide a database as a service tool. I developed a Content Management System (CMS) to accommodate such tools. The application was a multiuser platform which familiarized me with server problems such as double spending and databases Atomicity and Consistency properties. Working at Apposha also gave me experience in using AWS tools such as Elastic Beanstalk, Elasticsearch, CloudFormation, and Route53. Throughout my work, we acquired multiple government startup support and venture capital investment up to $200000.</p>
-                    <p><strong>What Did I learned?</strong></p>  
+                    <p>An application similar to Amazon Web Services (AWS) to provide a database as a service tool. I developed a Content Management System (CMS) to accommodate such tools. The application was a multiuser platform which familiarized me with server problems such as double spending and databases Atomicity and Consistency properties. Working at Apposha also gave me experience in using AWS tools such as Elastic Beanstalk, Elasticsearch, CloudFormation, and Route53. Throughout my work, we acquired multiple government startup support and venture capital investments.</p>
+                    <p><strong>What Did I learn?</strong></p>  
                     <ul>
                         <li>Laravel 5</li>
                         <li>MVC Programming</li>
                         <li>PHP Framework Programming</li>
-                        <li>MYSQL seeding and migration</li>
+                        <li>MySQL seeding and migration</li>
                         <li>HTML, CSS, JavaScript</li>
-                        <li>Linux, APACHE, MySQL, PHP(LAMP) set up</li>
+                        <li>Linux, Apache, MySQL, PHP(LAMP)</li>
                         <li>Vagrant Local Virtual Machine</li>
                         <li>& much more</li>
                     </ul>
@@ -803,22 +803,23 @@
                     <p><small>*Contact me to visit the website. Username and password are required</small></p>
                 </div>
             </div>
-            <div class="modal-body" data-name="ubutoday">
+            <div class="modal-body" data-name="ubutoday" id="ubutoday">
                 <div class="modal-title">
                     <h1><span class="point">UBUToday Website Builder and CMS</span></h1>
                 </div>
                 <div class="modal-description">
                     <p>A Website builder and Content management system from scratch for UBUToday. UBU Today is a non-profit organization that provides education, resources, workshops and access to world-renowned natural techniques as a springboard for renewed personal growth, hope and healing.</p>
-                    <p><strong>What Did I learned?</strong></p>  
+                    <p><strong>What Did I learn?</strong></p>  
                     <ul>
                         <li>Laravel 5</li>
                         <li>MVC Programming</li>
                         <li>PHP Framework Programming</li>
-                        <li>MYSQL seeding and migration</li>
+                        <li>MySQL seeding and migration</li>
                         <li>HTML, CSS, JavaScript</li>
-                        <li>Linux, APACHE, MySQL, PHP(LAMP) set up</li>
+                        <li>Linux, Apache, MySQL, PHP(LAMP)</li>
                         <li>Vagrant Local Virtual Machine</li>
                         <li>& much more</li>
+                        <li>API integration</li>
                     </ul>
                     <a href="https://github.com/pedramvdl31/UBUToday" style="color: blue">https://github.com/pedramvdl31/UBUToday</a>
                 </div>
@@ -859,7 +860,20 @@
                     <h1><span class="point">Emmanuelsrug Website Builder and CMS</span></h1>
                 </div>
                 <div class="modal-description">
-                    <p>I designed a website builder and Content management system from scratch for Emmanuelsrug. Gained extensive client relationship experience and received great reviews.</p>
+                    <p>A website builder and Content management system from scratch for Emmanuelsrug. Gained extensive client relationship experience and received great reviews.</p>
+                    <p><strong>What Did I learn?</strong></p>  
+                    <ul>
+                        <li>Laravel 5</li>
+                        <li>MVC Programming</li>
+                        <li>PHP Framework Programming</li>
+                        <li>MySQL seeding and migration</li>
+                        <li>HTML, CSS, JavaScript</li>
+                        <li>Linux, Apache, MySQL, PHP(LAMP)</li>
+                        <li>Vagrant Local Virtual Machine</li>
+                        <li>& much more</li>
+                        <li>API integration</li>
+                    </ul>
+                    <a href="https://github.com/pedramvdl31/emmanuels" style="color: blue">https://github.com/pedramvdl31/emmanuels</a>
                 </div>
                 <div class="about-me-info">
                     <p>
@@ -897,7 +911,7 @@
                     <h1><span class="point">Wendyjomorrison Portfolio</span></h1>
                 </div>
                 <div class="modal-description">
-                    <p><strong>What Did I learned?</strong></p>  
+                    <p><strong>What Did I learn?</strong></p>  
                     <ul>
                         <li>Laravel 5.2</li>
                         <li>HTML templating</li>
@@ -930,8 +944,8 @@
                     <h1><span class="point">KPIKE Website Builder, CMS, and Scheduler</span></h1>
                 </div>
                 <div class="modal-description">
-                    <p>Built a website builder and CMS from scratch (WebPrinciples). New pages can be added to the website using drag and drop. Menu navigation can be added, edited and sorted. A complete developer independent system. similar concept to WordPress.</p>
-                    <p><strong>What Did I learned?</strong></p>   
+                    <p>A website builder and CMS from scratch (WebPrinciples). New pages can be added to the website using drag and drop. Menu navigation can be added, edited and sorted. A complete developer independent system. similar concept to WordPress.</p>
+                    <p><strong>What Did I learn?</strong></p>   
                     <ul>
                         <li>Laravel 5.2</li>
                         <li>Dynamic routing using database</li>
@@ -976,7 +990,7 @@
                 </div>
                 <div class="modal-description">
                     <p>PhoneGap Cordova App for People to find businesses and navigate to it using GPS</p>
-                    <p><strong>What Did I learned?</strong></p> 
+                    <p><strong>What Did I learn?</strong></p> 
                     <ul>
                         <li>Mobile Application Development</li>
                         <li>Cordova and PhoneGap</li>
@@ -985,6 +999,7 @@
                         <li>Framework 7 UI design</li>
                         <li>Android and iOS developer account. submission and rollouts</li>
                     </ul>
+                    <a href="https://github.com/pedramvdl31/Better-Life-in-Korea-BLIK-Cordova---PhoneGap" style="color: blue">https://github.com/pedramvdl31/Better-Life-in-Korea-BLIK-Cordova---PhoneGap</a>
                 </div>
                 <div class="about-me-info">
                     <p>
@@ -1016,12 +1031,13 @@
                 </div>
                 <div class="modal-description">
                     <p>Fun and simple game for learning English. Originally created this with a group mate @biyangdo for venture capital competition KStartup. We were among the teams that were selected.</p>
-                    <p><strong>What Did I learned?</strong></p> 
+                    <p><strong>What Did I learn?</strong></p> 
                     <ul>
                         <li>HTML, CSS, JavaScript</li>
                         <li>jQuery Mobile UI Library</li>
                         <li>CSS Mobile optimization and hardware-acceleration</li>
                     </ul>
+                    <a href="https://github.com/pedramvdl31/Vocaptionary" style="color: blue">https://github.com/pedramvdl31/Vocaptionary</a>
                 </div>
                 <div class="about-me-info">
                     <p>
@@ -1051,7 +1067,7 @@
                 </div>
                 <div class="modal-description">
                     <p>Demo website builder with multiple themes to select from.</p>
-                    <p><strong>What Did I learned?</strong></p>  
+                    <p><strong>What Did I learn?</strong></p>  
                     <ul>
                         <li>Laravel 5.2</li>
                         <li>HTML templating</li>
@@ -1086,12 +1102,12 @@
                 </div>
                 <div class="modal-description">
                     <p>POS system, booking management (Multipurpose application for small business).</p>
-                    <p><strong>What Did I learned?</strong></p>  
+                    <p><strong>What Did I learn?</strong></p>  
                     <ul>
                         <li>Laravel 5</li>
                         <li>MVC Programming</li>
                         <li>PHP Framework Programming</li>
-                        <li>MYSQL seeding and migration</li>
+                        <li>MySQL seeding and migration</li>
                         <li>HTML, CSS, JavaScript</li>
                         <li>Linux, APACHE, MySQL, PHP(LAMP) set up</li>
                         <li>Vagrant Local Virtual Machine</li>
@@ -1123,16 +1139,17 @@
                 </div>
                 <div class="modal-description">
                     <p>Website and CMS system for cryptocurrency exchange.</p>
-                    <p><strong>What Did I learned?</strong></p>  
+                    <p><strong>What Did I learn?</strong></p>  
                     <ul>
                         <li>Laravel 5</li>
                         <li>MVC Programming</li>
                         <li>PHP Framework Programming</li>
-                        <li>MYSQL seeding and migration</li>
+                        <li>Database seeding and migration</li>
                         <li>HTML, CSS, JavaScript</li>
                         <li>Linux, APACHE, MySQL, PHP(LAMP) set up</li>
                         <li>Vagrant Local Virtual Machine</li>
                     </ul>
+                    <a href="https://github.com/pedramvdl31/WowCheBit" style="color: blue">https://github.com/pedramvdl31/WowCheBit</a>
                 </div>
                 <div class="about-me-info">
                     <p>
@@ -1163,14 +1180,15 @@
                 </div>
                 <div class="modal-description">
                     <p>Static Website</p>
-                    <p><strong>What Did I learned?</strong></p>  
+                    <p><strong>What Did I learn?</strong></p>  
                     <ul>
                         <li>Laravel 5</li>
                         <li>MVC Programming</li>
                         <li>HTML, CSS, JavaScript</li>
-                        <li>Linux, APACHE, MySQL, PHP(LAMP) set up</li>
+                        <li>Linux, Apache, MySQL, PHP(LAMP)</li>
                         <li>MAILGUN Email API integration</li>
                     </ul>
+                    <a href="https://github.com/pedramvdl31/ISRC" style="color: blue">https://github.com/pedramvdl31/ISRC</a>
                 </div>
                 <div class="about-me-info">
                     <p>
@@ -1196,8 +1214,8 @@
                     <h1><span class="point">Smart Flower Pot (iPot)</span></h1>
                 </div>
                 <div class="modal-description">
-                    <p>A demo project communicates with smart flower pot. This app supposedly keep track of the plant condition. Code are merely a demo of admin page without functionality.</p>
-                    <p><strong>What Did I learned?</strong></p>  
+                    <p>A demo project to communicate with a smart flower pot. This app supposedly keeps track of the plant condition. The code is merely a demo of admin page without functionality.</p>
+                    <p><strong>What Did I learn?</strong></p>  
                     <ul>
                         <li>Laravel 5</li>
                         <li>MVC Programming</li>
@@ -1205,6 +1223,7 @@
                         <li>Server communication</li>
                         <li>3D printing</li>
                     </ul>
+                    <a href="https://github.com/pedramvdl31/iPOT-HCI" style="color: blue">https://github.com/pedramvdl31/iPOT-HCI</a>
                 </div>
                 <div class="about-me-info">
                     <p>
@@ -1229,13 +1248,14 @@
                     <h1><span class="point">Screen Fantastic Games</span></h1>
                 </div>
                 <div class="modal-description">
-                    <p>Website and CMS for publishing articles and sharing video gameplays</p>
-                    <p><strong>What Did I learned?</strong></p>  
+                    <p>Website and CMS for publishing articles and sharing video gameplays.</p>
+                    <p><strong>What Did I learn?</strong></p>  
                     <ul>
                         <li>Laravel 5</li>
                         <li>MVC Programming</li>
                         <li>HTML, CSS, JavaScript</li>
                     </ul>
+                    .
                 </div>
                 <div class="about-me-info">
                     <p>
@@ -1262,12 +1282,11 @@
                 </div>
                 <div class="modal-description">
                     <p>A demo website. A platform where users can review different projects.</p>
-                    <p><strong>What Did I learned?</strong></p>  
+                    <p><strong>What Did I learn?</strong></p>  
                     <ul>
-                        <li>Laravel 5</li>
-                        <li>MVC Programming</li>
                         <li>HTML, CSS, JavaScript</li>
                     </ul>
+                    <a href="https://github.com/pedramvdl31/Project-Reviews" style="color: blue">https://github.com/pedramvdl31/Project-Reviews</a>
                 </div>
                 <div class="about-me-info">
                     <p>
@@ -1390,6 +1409,8 @@
 <!--THEME-->
 <script src="/assets/js/wow.min.js"></script>
 
-<script src="/assets/js/theme.js"></script>
+<script src="/assets/js/theme.js?1"></script>
+
+
 </body>
 </html>
