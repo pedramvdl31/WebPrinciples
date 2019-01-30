@@ -3,7 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pedram - Portfolio</title>
+    <title>Pedram Khoshnevis - Portfolio</title>
+    <meta name="description" content="Pedram Khoshnevis / Cooper Khoshnevis / Pedram khayyatkhoshnevis">
+    <meta name="og:title" property="og:title" content="Pedram Khoshnevis - Portfolio">
+    <meta property="og:description" content="Pedram Khoshnevis - Portfolio">
+    <meta property="og:url" content="http://webprinciples.com">
+    <meta property="og:type" content="Portfolio" />
+    <meta property="og:image" content="/assets/media/hello-section/Pedram Khoshnevis Portfolio.jpeg" />
+    <meta name="robots" content="index, follow">
     <link rel="stylesheet" type="text/css" href="/assets/css/master.css">
     <link href="https://fonts.googleapis.com/css?family=Lato|Roboto" rel="stylesheet">
     <link href="https://cdn.materialdesignicons.com/2.0.46/css/materialdesignicons.min.css" rel="stylesheet">
