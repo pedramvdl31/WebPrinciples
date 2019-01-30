@@ -11,7 +11,7 @@
     <meta property="og:type" content="Portfolio" />
     <meta property="og:image" content="http://webprinciples.com/assets/media/hello-section/2-resized.jpg" />
     <meta name="robots" content="index, follow">
-    <link rel="stylesheet" type="text/css" href="/assets/css/master.css">
+    <link  async rel="stylesheet" type="text/css" href="/assets/css/master.css">
     <link href="https://fonts.googleapis.com/css?family=Lato|Roboto" rel="stylesheet">
     <link href="https://cdn.materialdesignicons.com/2.0.46/css/materialdesignicons.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
