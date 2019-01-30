@@ -1025,7 +1025,7 @@
                         <li>Hosting on a shared host environment without root privileges</li>
                         <li>API integration</li>
                     </ul>
-                    <a href="https://github.com/pedramvdl31/Kpike-Consulting-Solutions" style="color: blue">https://github.com/pedramvdl31/Kpike-Consulting-Solutions</a>
+                    <!-- <a href="https://github.com/pedramvdl31/Kpike-Consulting-Solutions" style="color: blue">https://github.com/pedramvdl31/Kpike-Consulting-Solutions</a> -->
                 </div>
                 <div class="about-me-info">
                     <p>
