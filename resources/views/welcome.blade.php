@@ -135,7 +135,7 @@
         <div class="row">
             <div class="col-md-6 about-img-wrap">
                 <div class="about-img wow slideInRight" style="text-align: -webkit-auto;">
-                    <img src="/assets/media/hello-section/rsws-loading.gif" class="js-lazy-image" data-src="/assets/media/hello-section/2-resized.jpg" style="object-fit: contain !important" alt="pedram khoshnevis portfolio" class="img-responsive js-lazy-image">
+                    <img src="/assets/media/hello-section/rsws-loading.gif" class="js-lazy-image" data-src="/assets/media/hello-section/Webp.net-resizeimage.jpg" style="object-fit: contain !important" alt="pedram khoshnevis portfolio" class="img-responsive js-lazy-image">
                 </div>
             </div>
             <div class="col-md-6">
