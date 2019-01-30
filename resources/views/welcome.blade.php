@@ -11,9 +11,9 @@
     <meta property="og:type" content="Portfolio" />
     <meta property="og:image" content="http://webprinciples.com/assets/media/hello-section/2-resized.jpg" />
     <meta name="robots" content="index, follow">
-    <link href="https://fonts.googleapis.com/css?family=Lato|Roboto" rel="stylesheet">
-    <link href="https://cdn.materialdesignicons.com/2.0.46/css/materialdesignicons.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Lato|Roboto" rel="stylesheet">
+    <link rel="preload" href="https://cdn.materialdesignicons.com/2.0.46/css/materialdesignicons.min.css" rel="stylesheet">
+    <link rel="preload" rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 </head>
 
 
@@ -1468,18 +1468,18 @@
 <!-- Error message modal -->
 
 
-<script src="/assets/js/jquery-3.3.1.min.js?2"></script>
-<script src="/assets/js/bootstrap.min.js"></script>
+<script rel="preload" src="/assets/js/jquery-3.3.1.min.js?2"></script>
+<script rel="preload" src="/assets/js/bootstrap.min.js"></script>
 
-<script src="/assets/js/jquery.placeholder.min.js"></script>
+<script rel="preload" src="/assets/js/jquery.placeholder.min.js"></script>
 
 <!--Mix It Up-->
-<script src="/assets/mixitup-v3/dist/mixitup.min.js"></script>
+<script rel="preload" src="/assets/mixitup-v3/dist/mixitup.min.js"></script>
 
 <!--THEME-->
-<script src="/assets/js/wow.min.js"></script>
+<script rel="preload" src="/assets/js/wow.min.js"></script>
 
-<script src="/assets/js/theme.js?2"></script>
+<script rel="preload" src="/assets/js/theme.js?2"></script>
 
 
 </body>
