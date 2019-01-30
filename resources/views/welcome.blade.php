@@ -72,7 +72,7 @@
         <div class="row">
             <div class="col-md-6 about-img-wrap">
                 <div class="about-img wow slideInRight">
-                    <img src="/assets/media/hello-section/2-resized.jpg" style="object-fit: contain !important" alt="pedram khoshnevis portfolio" class="img-responsive">
+                    <img src="/assets/media/hello-section/rsws-loading.gif" class="js-lazy-image" data-src="/assets/media/hello-section/2-resized.jpg" style="object-fit: contain !important" alt="pedram khoshnevis portfolio" class="img-responsive js-lazy-image">
                 </div>
             </div>
             <div class="col-md-6">
@@ -405,7 +405,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
                             <a data-toggle="modal" data-target="#portfolio-modal" data-name="Apposha" title="Web app “Database as a service”" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/Apposha/Landing-Page.png" alt="apposha.io">
+                                    <img class="js-lazy-image-imm" data-src="/assets/media/portfolio-images/Apposha/Landing-Page.png" alt="apposha.io">
                                 </div>
                                 <div class="portfolio-name">
                                     <span>Startup Web Application, CMS and Database as a Service (DBaaS) for Apposha.io</span>
@@ -418,7 +418,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
                             <a data-toggle="modal" data-target="#portfolio-modal" data-name="ubutoday" title="UBUToday" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/UBUToday/Landing-Page-1.png" alt="">
+                                    <img class="js-lazy-image-imm" data-src="/assets/media/portfolio-images/UBUToday/Landing-Page-1.png" alt="">
                                 </div>
                                 <div class="portfolio-name">
                                     <span>UBUToday Website Builder and CMS</span>
@@ -431,7 +431,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
                             <a data-toggle="modal" data-target="#portfolio-modal" data-name="emmanuelsrug" title="Emmanuelsrug" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/EmmanuelsRug/Landing-Page.png" alt="">
+                                    <img class="js-lazy-image-imm" data-src="/assets/media/portfolio-images/EmmanuelsRug/Landing-Page.png" alt="">
                                 </div>
                                 <div class="portfolio-name">
                                     <span>Emmanuelsrug Website Builder and CMS</span>
@@ -444,7 +444,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
                             <a data-toggle="modal" data-target="#portfolio-modal" data-name="wendyjomorrison" title="wendyjomorrison" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/wendyjomorrison/Landing-Page-1.png" alt="">
+                                    <img class="js-lazy-image-imm" data-src="/assets/media/portfolio-images/wendyjomorrison/Landing-Page-1.png" alt="">
                                 </div>
                                 <div class="portfolio-name">
                                     <span>Jo-M-s-Portfolio-Project</span>
@@ -457,7 +457,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
                             <a data-toggle="modal" data-target="#portfolio-modal" data-name="kpike" title="KPIKE Website Builder, CMS, and Scheduler" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/kpike/Landing-Page-1.png" alt="">
+                                    <img class="js-lazy-image-imm" data-src="/assets/media/portfolio-images/kpike/Landing-Page-1.png" alt="">
                                 </div>
                                 <div class="portfolio-name">
                                     <span>KPIKE Website Builder, CMS, and Scheduler</span>
@@ -470,7 +470,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-6 mix apps wow flipInX">
                             <a data-toggle="modal" data-target="#portfolio-modal" data-name="blik" title="blik" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/BLIK/Landing-Screen.png" alt="">
+                                    <img class="js-lazy-image-imm" data-src="/assets/media/portfolio-images/BLIK/Landing-Screen.png" alt="">
                                 </div>
                                 <div class="portfolio-name">
                                     <span>Better Life In Korea (BLIK) Phone App</span>
@@ -483,7 +483,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-6 mix apps wow flipInX">
                             <a data-toggle="modal" data-target="#portfolio-modal" data-name="vocaptionary" title="Vocaptionary" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/Vocaptionary/Screen-1.png" alt="">
+                                    <img class="js-lazy-image-imm" data-src="/assets/media/portfolio-images/Vocaptionary/Screen-1.png" alt="">
                                 </div>
                                 <div class="portfolio-name">
                                     <span>Vocaptionary Game for Learning English</span>
@@ -496,7 +496,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
                             <a data-toggle="modal" data-target="#portfolio-modal" data-name="hashcall-websitebuilder" title="hashcall-websitebuilder" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/hashcall-websitebuilder/Landing-Page.png" alt="">
+                                    <img class="js-lazy-image-imm" data-src="/assets/media/portfolio-images/hashcall-websitebuilder/Landing-Page.png" alt="">
                                 </div>
                                 <div class="portfolio-name">
                                     <span>HashCall Website Builder</span>
@@ -509,7 +509,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
                             <a data-toggle="modal" data-target="#portfolio-modal" data-name="eyelevate" title="Eyelevate" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/Eyelevate/Landing-Page-1.png" alt="">
+                                    <img class="js-lazy-image-imm" data-src="/assets/media/portfolio-images/Eyelevate/Landing-Page-1.png" alt="">
                                 </div>
                                 <div class="portfolio-name">
                                     <span>POS system, booking management (Multipurpose application for small business).</span>
@@ -522,7 +522,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
                             <a data-toggle="modal" data-target="#portfolio-modal" data-name="wowchebit" title="Wowchebit" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/wowchebit/Landing-Page-1.png" alt="">
+                                    <img class="js-lazy-image-imm" data-src="/assets/media/portfolio-images/wowchebit/Landing-Page-1.png" alt="">
                                 </div>
                                 <div class="portfolio-name">
                                     <span>Website and CMS system for cryptocurrency exchange.</span>
@@ -535,7 +535,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
                             <a data-toggle="modal" data-target="#portfolio-modal" data-name="isrc" title="Ingvision" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/isrc/Landing-Page-1.png" alt="">
+                                    <img class="js-lazy-image-imm" data-src="/assets/media/portfolio-images/isrc/Landing-Page-1.png" alt="">
                                 </div>
                                 <div class="portfolio-name">
                                     <span>ING VISION 3D Scanner Website.</span>
@@ -548,7 +548,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
                             <a data-toggle="modal" data-target="#portfolio-modal" data-name="hciipot" title="Ingvision" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/hciipot/Landing-Page-1.png" alt="">
+                                    <img class="js-lazy-image-imm" data-src="/assets/media/portfolio-images/hciipot/Landing-Page-1.png" alt="">
                                 </div>
                                 <div class="portfolio-name">
                                     <span>A Admin Page Demo for smart flower pot</span>
@@ -561,7 +561,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
                             <a data-toggle="modal" data-target="#portfolio-modal" data-name="Screen-Fantastic-Games" title="Screen-Fantastic-Games" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/Screen-Fantastic-Games/Landing-Page-1.png" alt="">
+                                    <img class="js-lazy-image-imm" data-src="/assets/media/portfolio-images/Screen-Fantastic-Games/Landing-Page-1.png" alt="">
                                 </div>
                                 <div class="portfolio-name">
                                     <span>Website and CMS for publishing articles and sharing video gameplays</span>
@@ -574,7 +574,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
                             <a data-toggle="modal" data-target="#portfolio-modal" data-name="Project-Reviews" title="Project-Reviews" href="#" class="portfolio-box">
                                 <div class="portfolio-img">
-                                    <img src="/assets/media/portfolio-images/Project-Reviews/Landing-Page.png" alt="">
+                                    <img class="js-lazy-image-imm" data-src="/assets/media/portfolio-images/Project-Reviews/Landing-Page.png" alt="">
                                 </div>
                                 <div class="portfolio-name">
                                     <span>A demo website. A platform where users can review different projects.</span>
@@ -624,7 +624,7 @@
                 <div class="row wow zoomIn">
                     <div class="col-md-12">
                         <div class="feedback-block">
-                            <img class="feedback-image" src="/assets/media/feedback-images/feedback-1.jpg" alt="">
+                            <img class="js-lazy-image" class="feedback-image" src="/assets/media/feedback-images/feedback-1.jpg" alt="">
                             <h4 class="about-tittle">Stacey Don</h4>
                             <p class="about-info">President @ Coolor Studio</p>
                             <div class="opacity-box">
@@ -641,7 +641,7 @@
                 <div class="row wow zoomIn">
                     <div class="col-md-12">
                         <div class="feedback-block">
-                            <img class="feedback-image" src="/assets/media/feedback-images/feedback-2.jpg" alt="">
+                            <img class="js-lazy-image" class="feedback-image" src="/assets/media/feedback-images/feedback-2.jpg" alt="">
                             <h4 class="about-tittle">Anson Shura</h4>
                             <p class="about-info">Project Manager @ Motion Studio</p>
                             <div class="opacity-box">
@@ -657,7 +657,7 @@
                 <div class="row wow zoomIn">
                     <div class="col-md-12">
                         <div class="feedback-block">
-                            <img class="feedback-image" src="/assets/media/feedback-images/feedback-3.jpg" alt="">
+                            <img class="js-lazy-image" class="feedback-image" src="/assets/media/feedback-images/feedback-3.jpg" alt="">
                             <h4 class="about-tittle">Gaylord Jefferson</h4>
                             <p class="about-info">Developer @ Illskill Agency</p>
                             <div class="opacity-box">
@@ -778,29 +778,29 @@
                     </p>
                 </div>
                 <div class="modal-images">
-                    <img src="/assets/media/modal-images/Apposha/Landing-Page.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/Landing-Page-2.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/Landing-Page-3.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/SignIn.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/Signup.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/Reset-Password.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/Cluster-Create-Page.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/Cluster-Create-Korean-Lang-Page.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/System-Monitoring-Page.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/System-Monitoring-Page-2.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/Clusters-Configuration-Page.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/Clusters-Index.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/Cluster-Configuration-2.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/Help-Drawer.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/Invoice-Page.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/Invoice-to-PDF.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/Peer-Connection-Setting-Modal.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/Projects-Index.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/Project-Create-Page.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/Projects-Edit.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/Account-Setting-Page.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/Account-Delete-Modal.png" alt="">
-                    <img src="/assets/media/modal-images/Apposha/SuperAdmin-Links.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/Landing-Page.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/Landing-Page-2.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/Landing-Page-3.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/SignIn.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/Signup.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/Reset-Password.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/Cluster-Create-Page.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/Cluster-Create-Korean-Lang-Page.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/System-Monitoring-Page.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/System-Monitoring-Page-2.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/Clusters-Configuration-Page.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/Clusters-Index.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/Cluster-Configuration-2.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/Help-Drawer.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/Invoice-Page.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/Invoice-to-PDF.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/Peer-Connection-Setting-Modal.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/Projects-Index.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/Project-Create-Page.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/Projects-Edit.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/Account-Setting-Page.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/Account-Delete-Modal.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Apposha/SuperAdmin-Links.png" alt="">
                 </div>
                 <div class="about-btns">
 
@@ -841,21 +841,21 @@
                     </p>
                 </div>
                 <div class="modal-images">
-                    <img src="/assets/media/modal-images/UBUToday/Landing-Page-1.png" alt="">
-                    <img src="/assets/media/modal-images/UBUToday/Landing-Page-2.png" alt="">
-                    <img src="/assets/media/modal-images/UBUToday/Landing-Page-3.png" alt="">
-                    <img src="/assets/media/modal-images/UBUToday/Landing-Page-4.png" alt="">
-                    <img src="/assets/media/modal-images/UBUToday/Landing-Page-5.png" alt="">
-                    <img src="/assets/media/modal-images/UBUToday/Donation-Page.png" alt="">
-                    <img src="/assets/media/modal-images/UBUToday/Donation-Page-2.png" alt="">
-                    <img src="/assets/media/modal-images/UBUToday/Team.png" alt="">
-                    <img src="/assets/media/modal-images/UBUToday/Admin-Login.png" alt="">
-                    <img src="/assets/media/modal-images/UBUToday/Page-Creation-Index.png" alt="">
-                    <img src="/assets/media/modal-images/UBUToday/Page-Creation-Add.png" alt="">
-                    <img src="/assets/media/modal-images/UBUToday/Menu-Navigation-Creation-Add.png" alt="">
-                    <img src="/assets/media/modal-images/UBUToday/Menu-Navigation-Creation-Index.png" alt="">
-                    <img src="/assets/media/modal-images/UBUToday/Menu-Navigation-Order-Page.png" alt="">
-                    <img src="/assets/media/modal-images/UBUToday/Website-Mode-Control.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/UBUToday/Landing-Page-1.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/UBUToday/Landing-Page-2.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/UBUToday/Landing-Page-3.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/UBUToday/Landing-Page-4.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/UBUToday/Landing-Page-5.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/UBUToday/Donation-Page.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/UBUToday/Donation-Page-2.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/UBUToday/Team.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/UBUToday/Admin-Login.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/UBUToday/Page-Creation-Index.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/UBUToday/Page-Creation-Add.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/UBUToday/Menu-Navigation-Creation-Add.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/UBUToday/Menu-Navigation-Creation-Index.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/UBUToday/Menu-Navigation-Order-Page.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/UBUToday/Website-Mode-Control.png" alt="">
                 </div>
                 <div class="about-btns">
                     <a href="https://www.ubutoday.com" class="site-btn">Visit Website</a>
@@ -893,20 +893,20 @@
                     </p>
                 </div>
                 <div class="modal-images">
-                    <img src="/assets/media/modal-images/EmmanuelsRug/Landing-Page.png" alt="">
-                    <img src="/assets/media/modal-images/EmmanuelsRug/Admin-Login.png" alt="">
-                    <img src="/assets/media/modal-images/EmmanuelsRug/Manage-Resources-Index-1.png" alt="">
-                    <img src="/assets/media/modal-images/EmmanuelsRug/Company-Info-Setup-Page.png" alt="">
-                    <img src="/assets/media/modal-images/EmmanuelsRug/Company-Info-Edit-Page-1.png" alt="">
-                    <img src="/assets/media/modal-images/EmmanuelsRug/Company-Info-Edit-Page-2.png" alt="">
-                    <img src="/assets/media/modal-images/EmmanuelsRug/Company-Info-Setup-Page-2.png" alt="">
-                    <img src="/assets/media/modal-images/EmmanuelsRug/Dynamic-Navbar-Creation-Index.png" alt="">
-                    <img src="/assets/media/modal-images/EmmanuelsRug/Dynamic-Navbar-Creation-Edit.png" alt="">
-                    <img src="/assets/media/modal-images/EmmanuelsRug/Page-Creation-Index.png" alt="">
-                    <img src="/assets/media/modal-images/EmmanuelsRug/Page-Creation-Add-1.png" alt="">
-                    <img src="/assets/media/modal-images/EmmanuelsRug/Page-Creation-Add-2.png" alt="">
-                    <img src="/assets/media/modal-images/EmmanuelsRug/User-Control-Index.png" alt="">
-                    <img src="/assets/media/modal-images/EmmanuelsRug/User-Control-Edit.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/EmmanuelsRug/Landing-Page.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/EmmanuelsRug/Admin-Login.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/EmmanuelsRug/Manage-Resources-Index-1.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/EmmanuelsRug/Company-Info-Setup-Page.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/EmmanuelsRug/Company-Info-Edit-Page-1.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/EmmanuelsRug/Company-Info-Edit-Page-2.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/EmmanuelsRug/Company-Info-Setup-Page-2.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/EmmanuelsRug/Dynamic-Navbar-Creation-Index.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/EmmanuelsRug/Dynamic-Navbar-Creation-Edit.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/EmmanuelsRug/Page-Creation-Index.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/EmmanuelsRug/Page-Creation-Add-1.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/EmmanuelsRug/Page-Creation-Add-2.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/EmmanuelsRug/User-Control-Index.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/EmmanuelsRug/User-Control-Edit.png" alt="">
                 </div>
                 <div class="about-btns">
                     <a href="http://www.emmanuelsrug.com/" class="site-btn">VIsit Website</a>
@@ -937,9 +937,9 @@
                     </p>
                 </div>
                 <div class="modal-images">
-                    <img src="/assets/media/modal-images/wendyjomorrison/Landing-Page-1.png" alt="">
-                    <img src="/assets/media/modal-images/wendyjomorrison/Landing-Page-2.png" alt="">
-                    <img src="/assets/media/modal-images/wendyjomorrison/Landing-Page-3.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/wendyjomorrison/Landing-Page-1.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/wendyjomorrison/Landing-Page-2.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/wendyjomorrison/Landing-Page-3.png" alt="">
                 </div>
                 <div class="about-btns">
                     <a href="http://wendyjomorrison.com/" class="site-btn">VIsit Website</a>
@@ -975,16 +975,16 @@
                     </p>
                 </div>
                 <div class="modal-images">
-                    <img src="/assets/media/modal-images/kpike/Landing-Page-1.png" alt="">
-                    <img src="/assets/media/modal-images/kpike/Landing-Page-2.png" alt="">
-                    <img src="/assets/media/modal-images/kpike/Landing-Page-3.png" alt="">
-                    <img src="/assets/media/modal-images/kpike/Landing-Page-4.png" alt="">
-                    <img src="/assets/media/modal-images/kpike/Admin-Page.png" alt="">
-                    <img src="/assets/media/modal-images/kpike/Custom-Menu-Index.png" alt="">
-                    <img src="/assets/media/modal-images/kpike/Custom-Menu-Add.png" alt="">
-                    <img src="/assets/media/modal-images/kpike/Scheduler-Page.png" alt="">
-                    <img src="/assets/media/modal-images/kpike/Custom-Pages-Index.png" alt="">
-                    <img src="/assets/media/modal-images/kpike/Menu-Sorting.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/kpike/Landing-Page-1.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/kpike/Landing-Page-2.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/kpike/Landing-Page-3.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/kpike/Landing-Page-4.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/kpike/Admin-Page.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/kpike/Custom-Menu-Index.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/kpike/Custom-Menu-Add.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/kpike/Scheduler-Page.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/kpike/Custom-Pages-Index.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/kpike/Menu-Sorting.png" alt="">
                 </div>
                 <div class="about-btns">
                     <a href="http://www.kpikeconsultingsolutions.com/" class="site-btn">VIsit Website</a>
@@ -1019,14 +1019,14 @@
                     </p>
                 </div>
                 <div class="modal-images">
-                    <img src="/assets/media/modal-images/BLIK/Splash.PNG" alt="">
-                    <img src="/assets/media/modal-images/BLIK/Landing-Screen.PNG" alt="">
-                    <img src="/assets/media/modal-images/BLIK/Categories.PNG" alt="">
-                    <img src="/assets/media/modal-images/BLIK/Map-View.PNG" alt="">
-                    <img src="/assets/media/modal-images/BLIK/Reviews-and-Options.PNG" alt="">
-                    <img src="/assets/media/modal-images/BLIK/Post-View.PNG" alt="">
-                    <img src="/assets/media/modal-images/BLIK/Navigation-Options.PNG" alt="">
-                    <img src="/assets/media/modal-images/BLIK/Transition-to-Navigation.PNG" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/BLIK/Splash.PNG" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/BLIK/Landing-Screen.PNG" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/BLIK/Categories.PNG" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/BLIK/Map-View.PNG" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/BLIK/Reviews-and-Options.PNG" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/BLIK/Post-View.PNG" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/BLIK/Navigation-Options.PNG" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/BLIK/Transition-to-Navigation.PNG" alt="">
                 </div>
                 <div class="about-btns">
                     <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1057,12 +1057,12 @@
                     </p>
                 </div>
                 <div class="modal-images">
-                    <img src="/assets/media/modal-images/Vocaptionary/Screen-1.png" alt="">
-                    <img src="/assets/media/modal-images/Vocaptionary/Screen-2.png" alt="">
-                    <img src="/assets/media/modal-images/Vocaptionary/Screen-3.png" alt="">
-                    <img src="/assets/media/modal-images/Vocaptionary/Screen-4.png" alt="">
-                    <img src="/assets/media/modal-images/Vocaptionary/Screen-5.png" alt="">
-                    <img src="/assets/media/modal-images/Vocaptionary/Screen-6.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Vocaptionary/Screen-1.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Vocaptionary/Screen-2.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Vocaptionary/Screen-3.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Vocaptionary/Screen-4.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Vocaptionary/Screen-5.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Vocaptionary/Screen-6.png" alt="">
                 </div>
                 <div class="about-btns">
                     <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1093,11 +1093,11 @@
                     </p>
                 </div>
                 <div class="modal-images">
-                    <img src="/assets/media/modal-images/hashcall-websitebuilder/Landing-Page.png" alt="">
-                    <img src="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit.png" alt="">
-                    <img src="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-2.png" alt="">
-                    <img src="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-3.png" alt="">
-                    <img src="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-4.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/hashcall-websitebuilder/Landing-Page.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-2.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-3.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-4.png" alt="">
                 </div>
                 <div class="about-btns">
                     <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1132,9 +1132,9 @@
                     </p>
                 </div>
                 <div class="modal-images">
-                    <img src="/assets/media/modal-images/Eyelevate/Landing-Page-1.png" alt="">
-                    <img src="/assets/media/modal-images/Eyelevate/Home.png" alt="">
-                    <img src="/assets/media/modal-images/Eyelevate/Profile-Page.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Eyelevate/Landing-Page-1.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Eyelevate/Home.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Eyelevate/Profile-Page.png" alt="">
                 </div>
                 <div class="about-btns">
                     <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1169,13 +1169,13 @@
                     </p>
                 </div>
                 <div class="modal-images">
-                    <img src="/assets/media/modal-images/wowchebit/Landing-Page-1.png" alt="">
-                    <img src="/assets/media/modal-images/wowchebit/Landing-Page-2.png" alt="">
-                    <img src="/assets/media/modal-images/wowchebit/Landing-Page-3.png" alt="">
-                    <img src="/assets/media/modal-images/wowchebit/Landing-Page-4.png" alt="">
-                    <img src="/assets/media/modal-images/wowchebit/Payments-Index.png" alt="">
-                    <img src="/assets/media/modal-images/wowchebit/Profit-Rate-Index.png" alt="">
-                    <img src="/assets/media/modal-images/wowchebit/Admins-Buy-Sell-Index.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/wowchebit/Landing-Page-1.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/wowchebit/Landing-Page-2.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/wowchebit/Landing-Page-3.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/wowchebit/Landing-Page-4.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/wowchebit/Payments-Index.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/wowchebit/Profit-Rate-Index.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/wowchebit/Admins-Buy-Sell-Index.png" alt="">
                 </div>
                 <div class="about-btns">
                     <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1208,9 +1208,9 @@
                     </p>
                 </div>
                 <div class="modal-images">
-                    <img src="/assets/media/modal-images/isrc/Landing-Page-1.png" alt="">
-                    <img src="/assets/media/modal-images/isrc/Landing-Page-2.png" alt="">
-                    <img src="/assets/media/modal-images/isrc/Landing-Page-3.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/isrc/Landing-Page-1.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/isrc/Landing-Page-2.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/isrc/Landing-Page-3.png" alt="">
                 </div>
                 <div class="about-btns">
                     <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1243,8 +1243,8 @@
                     </p>
                 </div>
                 <div class="modal-images">
-                    <img src="/assets/media/modal-images/hciipot/Landing-Page-1.png" alt="">
-                    <img src="/assets/media/modal-images/hciipot/Landing-Page-2.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/hciipot/Landing-Page-1.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/hciipot/Landing-Page-2.png" alt="">
                 </div>
                 <div class="about-btns">
                     <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1275,9 +1275,9 @@
                     </p>
                 </div>
                 <div class="modal-images">
-                    <img src="/assets/media/modal-images/Screen-Fantastic-Games/Landing-Page-1.png" alt="">
-                    <img src="/assets/media/modal-images/Screen-Fantastic-Games/Admins-Videos-Index.png" alt="">
-                    <img src="/assets/media/modal-images/Screen-Fantastic-Games/Admins-Videos-Add-Edit.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Screen-Fantastic-Games/Landing-Page-1.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Screen-Fantastic-Games/Admins-Videos-Index.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Screen-Fantastic-Games/Admins-Videos-Add-Edit.png" alt="">
                 </div>
                 <div class="about-btns">
                     <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1306,9 +1306,9 @@
                     </p>
                 </div>
                 <div class="modal-images">
-                    <img src="/assets/media/modal-images/Project-Reviews/Landing-Page.png" alt="">
-                    <img src="/assets/media/modal-images/Project-Reviews/Landing-Page-2.png" alt="">
-                    <img src="/assets/media/modal-images/Project-Reviews/Signin-Signup.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Project-Reviews/Landing-Page.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Project-Reviews/Landing-Page-2.png" alt="">
+                    <img class="js-lazy-image" data-src="/assets/media/modal-images/Project-Reviews/Signin-Signup.png" alt="">
                 </div>
                 <div class="about-btns">
                     <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1405,7 +1405,7 @@
 <!-- Error message modal -->
 
 
-<script src="/assets/js/jquery-2.2.3.min.js"></script>
+<script src="/assets/js/jquery-3.3.1.min.js?2"></script>
 <script src="/assets/js/bootstrap.min.js"></script>
 
 <script src="/assets/js/jquery.placeholder.min.js"></script>
@@ -1416,7 +1416,7 @@
 <!--THEME-->
 <script src="/assets/js/wow.min.js"></script>
 
-<script src="/assets/js/theme.js?1"></script>
+<script src="/assets/js/theme.js?2"></script>
 
 
 </body>
