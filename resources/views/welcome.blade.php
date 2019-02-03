@@ -19,7 +19,8 @@
     <meta name="robots" content="index, follow">
     <link href="https://fonts.googleapis.com/css?family=Lato|Roboto" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css?1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/progressively/dist/progressively.min.css">
 </head>
 
 
