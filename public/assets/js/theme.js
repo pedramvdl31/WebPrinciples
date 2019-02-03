@@ -1,148 +1,6 @@
 $(document).ready(function () {
 
     'use strict';
-
-    //LAZY LOADING
-    $("head").append('<link rel="stylesheet" type="text/css" href="/assets/css/animate.css">');
-    $("head").append('<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css">');
-    $("head").append('<link rel="stylesheet" type="text/css" href="/assets/css/main.css">');
-    
-
-    // Get all of the images that are marked up to lazy load
-    const images = document.querySelectorAll('.js-lazy-image');
-    const imagesLoadImmediately = document.querySelectorAll('.js-lazy-image-imm');
-    const config = {
-      // If the image gets within 50px in the Y axis, start the download.
-      rootMargin: '50px 0px',
-      threshold: 0.01
-    };
-
-    setTimeout(function(){ 
-
-        $('body').removeClass("loading");
-
-        setTimeout(function(){ 
-
-            loadImagesImmediately(imagesLoadImmediately);
-
-         }, 1000);
-        
-    }, 2000);
-
-    let imageCount = images.length;
-    let observer;
-
-    // If we don't have support for intersection observer, loads the images immediately
-    if (!('IntersectionObserver' in window)) {
-      loadImagesImmediately(images);
-    } else {
-      // It is supported, load the images
-      observer = new IntersectionObserver(onIntersection, config);
-
-      // foreach() is not supported in IE
-      for (let i = 0; i < images.length; i++) { 
-        let image = images[i];
-        if (image.classList.contains('js-lazy-image--handled')) {
-          continue;
-        }
-
-        observer.observe(image);
-      }
-    }
-
-    /**
-     * Fetchs the image for the given URL
-     * @param {string} url 
-     */
-    function fetchImage(url) {
-      return new Promise((resolve, reject) => {
-        const image = new Image();
-        image.src = url;
-        image.onload = resolve;
-        image.onerror = reject;
-      });
-    }
-
-    /**
-     * Preloads the image
-     * @param {object} image 
-     */
-    function preloadImage(image) {
-      const src = image.dataset.src;
-      if (!src) {
-        return;
-      }
-
-      return fetchImage(src).then(() => { applyImage(image, src); });
-    }
-
-    /**
-     * Load all of the images immediately
-     * @param {NodeListOf<Element>} images 
-     */
-    function loadImagesImmediately(images) {
-      // foreach() is not supported in IE
-      for (let i = 0; i < images.length; i++) { 
-        let image = images[i];
-        preloadImage(image);
-      }
-    }
-
-    /**
-     * Disconnect the observer
-     */
-    function disconnect() {
-      if (!observer) {
-        return;
-      }
-
-      observer.disconnect();
-    }
-
-    /**
-     * On intersection
-     * @param {array} entries 
-     */
-    function onIntersection(entries) {
-      // Disconnect if we've already loaded all of the images
-      if (imageCount === 0) {
-        disconnect();
-        return;
-      }
-
-      // Loop through the entries
-      for (let i = 0; i < entries.length; i++) { 
-        let entry = entries[i];
-        // Are we in viewport?
-        if (entry.intersectionRatio > 0) {
-          imageCount--;
-
-          // Stop watching and load the image
-          observer.unobserve(entry.target);
-          preloadImage(entry.target);
-        }
-      }
-    }
-
-    /**
-     * Apply the image
-     * @param {object} img 
-     * @param {string} src 
-     */
-    function applyImage(img, src) {
-      // Prevent this from being lazy loaded a second time.
-      img.classList.add('js-lazy-image--handled');
-      img.src = src;
-      img.classList.add('fade-in');
-    }
-
-
-
-    // LAZY LAODING END
-
-
-
-
     function wowInit() {
         var scrollingAnimations = false; // Set false for turn off animation
         if(scrollingAnimations){
@@ -157,6 +15,31 @@ $(document).ready(function () {
     wowInit();
 
 
+    var flag = [];
+
+    $('.portfolio-box').click(function(event) {
+
+      let modalName = $(this).attr('data-name');
+
+      if (flag.indexOf(modalName)) {
+
+        flag.push(modalName);
+
+        let allImages = $('.modal-body[data-name="'+modalName+'"]').find('.load-on-modal-open');
+
+          allImages.each(function( index ) {
+
+            $(this).attr("src", $(this).attr( "data-progressive" ));
+
+          });
+      }
+
+    });
+
+
+
+
+ 
     //mobile-menu
     $('.mobile-btn, .close-mob-menu').on('click', function () {
         $('.mob-menu-wrapper').toggleClass('active');
@@ -188,27 +71,6 @@ $(document).ready(function () {
             }
         });
     }
-
-
-        var url = window.location.href;
-        var host = window.location.host;
-        var array = url.split('/#');
-
-        if (array[1] != undefined) {
-
-            if ($('a[data-name='+array[1]+']').length != 0) {
-
-                $('#portfolio-modal').modal('show');
-                $(this).find('.modal-body').hide();
-                $('.modal-body[data-name = '+array[1]+']').show();
-
-            }
-            
-        }
-
-
-    // //init custom select
-    // $('select').customSelect();
 
     //bootstrap portfolio modal
     $('#portfolio-modal').on('show.bs.modal', function (event) {
@@ -248,19 +110,19 @@ $(document).ready(function () {
     });
 
     function validateForm(selector) {
-      Array.from(document.querySelectorAll(selector)).forEach(item => {
-        item.addEventListener('input', (e) => {
-            if(e.target.value === ''){
-                item.dataset.touched = false;
-            }
-        });
-        item.addEventListener('invalid', () => {
-          item.dataset.touched = true;
-        });
-        item.addEventListener('blur', () => {
-          if (item.value !== '') item.dataset.touched = true;
-        });
-      });
+Array.from(document.querySelectorAll(selector)).forEach(function (item) {
+  item.addEventListener('input', function (e) {
+    if (e.target.value === '') {
+      item.dataset.touched = false;
+    }
+  });
+  item.addEventListener('invalid', function () {
+    item.dataset.touched = true;
+  });
+  item.addEventListener('blur', function () {
+    if (item.value !== '') item.dataset.touched = true;
+  });
+});
     };
     validateForm('.js-modal-form .form-field');
     validateForm('.js-footer-form .form-field');
