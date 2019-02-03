@@ -1007,7 +1007,7 @@
                         <h1><span class="point">KPIKE Website Builder, CMS, and Scheduler</span></h1>
                     </div>
                     <div class="modal-description">
-                        <p>A website builder and CMS from scratch (WebPrinciples). New pages can be added to the website using drag and drop. Menu navigation can be added, edited and sorted. A complete developer independent system. similar concept to WordPress.</p>
+                        <p>A website builder and CMS from scratch (WebPrinciples). New pages can be added to the website using drag and drop. Menu navigation can be added, edited and sorted. A complete developer independent system. A similar concept to WordPress.</p>
                         <p><strong>What Did I learn?</strong></p>   
                         <ul>
                             <li>Laravel 5.2</li>
