@@ -1,4 +1,8 @@
+
+
+
 $(document).ready(function () {
+
 
     'use strict';
 
@@ -6,6 +10,13 @@ $(document).ready(function () {
         onLoadComplete: function() {
         }
     });
+
+    $("head").append('<link rel="stylesheet" type="text/css" href="/assets/css/animate.css">');
+    $("head").append('<link href="https://cdn.materialdesignicons.com/2.0.46/css/materialdesignicons.min.css" rel="stylesheet">');
+    $("head").append('<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">');
+    $("head").append('<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/progressively/dist/progressively.min.css">');
+
+    
 
     function wowInit() {
         var scrollingAnimations = false; // Set false for turn off animation
@@ -135,13 +146,13 @@ Array.from(document.querySelectorAll(selector)).forEach(function (item) {
   var modalFormName = '.js-modal-form';
   var footerFormName = '.js-footer-form';
 
-  modalForm.addEventListener('submit', function(e){
-    submitForm(e, modalFormName);
-  });
+  // modalForm.addEventListener('submit', function(e){
+  //   submitForm(e, modalFormName);
+  // });
 
-  footerForm.addEventListener('submit', function(e){
-    submitForm(e, footerFormName);
-  });
+  // footerForm.addEventListener('submit', function(e){
+  //   submitForm(e, footerFormName);
+  // });
 
   function submitForm(e, formName){
     e.preventDefault();

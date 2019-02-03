@@ -18,12 +18,8 @@
     <meta property="og:image" content="http://webprinciples.com/assets/media/hello-section/2-resized.jpg" />
     <meta name="robots" content="index, follow">
     <link href="https://fonts.googleapis.com/css?family=Lato|Roboto" rel="stylesheet">
-    <link href="https://cdn.materialdesignicons.com/2.0.46/css/materialdesignicons.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="/assets/css/animate.css">
     <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/progressively/dist/progressively.min.css">
 </head>
 
 
@@ -1512,7 +1508,7 @@
 
     <script rel="preload" src="https://cdn.jsdelivr.net/npm/progressively/dist/progressively.min.js"></script>
 
-    <script rel="preload" src="/assets/js/theme.js?3"></script>
+    <script rel="preload" src="/assets/js/theme.js?4"></script>
 
 </body>
 </html>
