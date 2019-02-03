@@ -1,6 +1,12 @@
 $(document).ready(function () {
 
     'use strict';
+
+    progressively.init({
+        onLoadComplete: function() {
+        }
+    });
+
     function wowInit() {
         var scrollingAnimations = false; // Set false for turn off animation
         if(scrollingAnimations){
@@ -35,10 +41,6 @@ $(document).ready(function () {
       }
 
     });
-
-
-
-
  
     //mobile-menu
     $('.mobile-btn, .close-mob-menu').on('click', function () {

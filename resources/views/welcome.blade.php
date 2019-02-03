@@ -865,7 +865,7 @@
                     </div>
                     <div class="modal-images">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30" data-progressive="/assets/media/modal-images/UBUToday/Landing-Page-1.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/UBUToday/Landing-Page-1.png" alt="">
                         
                         <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/UBUToday/Landing-Page-2.png" alt="">
 
@@ -1142,7 +1142,7 @@
                         <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Vocaptionary/30/Screen-5.png" data-progressive="/assets/media/modal-images/Vocaptionary/Screen-5.png" alt="">
 
                         <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Vocaptionary/30/Screen-6.png" data-progressive="/assets/media/modal-images/Vocaptionary/Screen-6.png" alt="">
-                        
+
                     </div>
                     <div class="about-btns">
                         <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1173,11 +1173,15 @@
                         </p>
                     </div>
                     <div class="modal-images">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/hashcall-websitebuilder/Landing-Page.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-2.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-3.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-4.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hashcall-websitebuilder/30/Landing-Page.png" data-progressive="/assets/media/modal-images/hashcall-websitebuilder/Landing-Page.png" alt="">
+
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hashcall-websitebuilder/30/Template-Edit.png" data-progressive="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit.png" alt="">
+
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hashcall-websitebuilder/30/Template-Edit-2.png" data-progressive="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-2.png" alt="">
+
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hashcall-websitebuilder/30/Template-Edit-3.png" data-progressive="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-3.png" alt="">
+
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hashcall-websitebuilder/30/Template-Edit-4.png" data-progressive="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-4.png" alt="">
                     </div>
                     <div class="about-btns">
                         <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1212,9 +1216,11 @@
                         </p>
                     </div>
                     <div class="modal-images">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/Eyelevate/Landing-Page-1.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/Eyelevate/Home.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/Eyelevate/Profile-Page.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Eyelevate/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/Eyelevate/Landing-Page-1.png" alt="">
+
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Eyelevate/30/Home.png" data-progressive="/assets/media/modal-images/Eyelevate/Home.png" alt="">
+
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Eyelevate/30/Profile-Page.png" data-progressive="/assets/media/modal-images/Eyelevate/Profile-Page.png" alt="">
                     </div>
                     <div class="about-btns">
                         <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1249,13 +1255,19 @@
                         </p>
                     </div>
                     <div class="modal-images">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/wowchebit/Landing-Page-1.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/wowchebit/Landing-Page-2.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/wowchebit/Landing-Page-3.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/wowchebit/Landing-Page-4.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/wowchebit/Payments-Index.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/wowchebit/Profit-Rate-Index.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/wowchebit/Admins-Buy-Sell-Index.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/wowchebit/Landing-Page-1.png" alt="">
+
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/wowchebit/Landing-Page-2.png" alt="">
+
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Landing-Page-3.png" data-progressive="/assets/media/modal-images/wowchebit/Landing-Page-3.png" alt="">
+
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Landing-Page-4.png" data-progressive="/assets/media/modal-images/wowchebit/Landing-Page-4.png" alt="">
+
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Payments-Index.png" data-progressive="/assets/media/modal-images/wowchebit/Payments-Index.png" alt="">
+
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Profit-Rate-Index.png" data-progressive="/assets/media/modal-images/wowchebit/Profit-Rate-Index.png" alt="">
+
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Admins-Buy-Sell-Index.png" data-progressive="/assets/media/modal-images/wowchebit/Admins-Buy-Sell-Index.png" alt="">
                     </div>
                     <div class="about-btns">
                         <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1288,9 +1300,11 @@
                         </p>
                     </div>
                     <div class="modal-images">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/isrc/Landing-Page-1.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/isrc/Landing-Page-2.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/isrc/Landing-Page-3.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/isrc/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/isrc/Landing-Page-1.png" alt="">
+
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/isrc/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/isrc/Landing-Page-2.png" alt="">
+
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/isrc/30/Landing-Page-3.png" data-progressive="/assets/media/modal-images/isrc/Landing-Page-3.png" alt="">
                     </div>
                     <div class="about-btns">
                         <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1323,8 +1337,8 @@
                         </p>
                     </div>
                     <div class="modal-images">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/hciipot/Landing-Page-1.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/hciipot/Landing-Page-2.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hciipot/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/hciipot/Landing-Page-1.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hciipot/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/hciipot/Landing-Page-2.png" alt="">
                     </div>
                     <div class="about-btns">
                         <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1355,9 +1369,9 @@
                         </p>
                     </div>
                     <div class="modal-images">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/Screen-Fantastic-Games/Landing-Page-1.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/Screen-Fantastic-Games/Admins-Videos-Index.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/Screen-Fantastic-Games/Admins-Videos-Add-Edit.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Screen-Fantastic-Games/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/Screen-Fantastic-Games/Landing-Page-1.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Screen-Fantastic-Games/30/Admins-Videos-Index.png" data-progressive="/assets/media/modal-images/Screen-Fantastic-Games/Admins-Videos-Index.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Screen-Fantastic-Games/30/Admins-Videos-Add-Edit.png" data-progressive="/assets/media/modal-images/Screen-Fantastic-Games/Admins-Videos-Add-Edit.png" alt="">
                     </div>
                     <div class="about-btns">
                         <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1386,9 +1400,9 @@
                         </p>
                     </div>
                     <div class="modal-images">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/Project-Reviews/Landing-Page.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/Project-Reviews/Landing-Page-2.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/" data-progressive="/assets/media/modal-images/Project-Reviews/Signin-Signup.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Project-Reviews/30/Landing-Page.png" data-progressive="/assets/media/modal-images/Project-Reviews/Landing-Page.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Project-Reviews/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/Project-Reviews/Landing-Page-2.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Project-Reviews/30/Signin-Signup.png" data-progressive="/assets/media/modal-images/Project-Reviews/Signin-Signup.png" alt="">
                     </div>
                     <div class="about-btns">
                         <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1498,14 +1512,7 @@
 
     <script rel="preload" src="https://cdn.jsdelivr.net/npm/progressively/dist/progressively.min.js"></script>
 
-    <script rel="preload" src="/assets/js/theme.js?2"></script>
+    <script rel="preload" src="/assets/js/theme.js?3"></script>
 
-    <script>
-        progressively.init({
-            onLoadComplete: function() {
-                console.log('All images loaded!');
-            }
-        });
-    </script>
 </body>
 </html>
