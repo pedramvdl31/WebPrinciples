@@ -11,11 +11,9 @@ $(document).ready(function () {
         }
     });
 
-    setTimeout(function(){ 
-      $("head").append('<link rel="stylesheet" type="text/css" href="/assets/css/animate.css?1">');
-      $("head").append('<link href="https://cdn.materialdesignicons.com/2.0.46/css/materialdesignicons.min.css" rel="stylesheet">');
-      $("head").append('<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">');
-    }, 1000);
+    $("head").append('<link rel="stylesheet" type="text/css" href="/assets/css/animate.css?1">');
+    $("head").append('<link href="https://cdn.materialdesignicons.com/2.0.46/css/materialdesignicons.min.css" rel="stylesheet">');
+    $("head").append('<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">');
 
 
     
