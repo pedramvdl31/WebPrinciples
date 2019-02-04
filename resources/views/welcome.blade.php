@@ -658,7 +658,7 @@
                     <div class="row wow zoomIn">
                         <div class="col-md-12">
                             <div class="feedback-block">
-                                <img class="js-lazy-image" class="feedback-image" src="/assets/media/feedback-images/feedback-1.jpg" alt="">
+                                <img class="js-lazy-image" class="feedback-image" src="/assets/media/feedback-images/feedback-1.jpg" alt="by pedram / cooper khoshnevis at webprinciples">
                                 <h4 class="about-tittle">Stacey Don</h4>
                                 <p class="about-info">President @ Coolor Studio</p>
                                 <div class="opacity-box">
@@ -675,7 +675,7 @@
                     <div class="row wow zoomIn">
                         <div class="col-md-12">
                             <div class="feedback-block">
-                                <img class="js-lazy-image" class="feedback-image" src="/assets/media/feedback-images/feedback-2.jpg" alt="">
+                                <img class="js-lazy-image" class="feedback-image" src="/assets/media/feedback-images/feedback-2.jpg" alt="by pedram / cooper khoshnevis at webprinciples">
                                 <h4 class="about-tittle">Anson Shura</h4>
                                 <p class="about-info">Project Manager @ Motion Studio</p>
                                 <div class="opacity-box">
@@ -691,7 +691,7 @@
                     <div class="row wow zoomIn">
                         <div class="col-md-12">
                             <div class="feedback-block">
-                                <img class="js-lazy-image" class="feedback-image" src="/assets/media/feedback-images/feedback-3.jpg" alt="">
+                                <img class="js-lazy-image" class="feedback-image" src="/assets/media/feedback-images/feedback-3.jpg" alt="by pedram / cooper khoshnevis at webprinciples">
                                 <h4 class="about-tittle">Gaylord Jefferson</h4>
                                 <p class="about-info">Developer @ Illskill Agency</p>
                                 <div class="opacity-box">
@@ -812,29 +812,29 @@
                         </p>
                     </div>
                     <div class="modal-images">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Landing-Page.png" data-progressive="/assets/media/modal-images/Apposha/Landing-Page.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/Apposha/Landing-Page-2.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Landing-Page-3.png" data-progressive="/assets/media/modal-images/Apposha/Landing-Page-3.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/SignIn.png" data-progressive="/assets/media/modal-images/Apposha/SignIn.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Signup.png" data-progressive="/assets/media/modal-images/Apposha/Signup.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Reset-Password.png" data-progressive="/assets/media/modal-images/Apposha/Reset-Password.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Cluster-Create-Page.png" data-progressive="/assets/media/modal-images/Apposha/Cluster-Create-Page.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Cluster-Create-Korean-Lang-Page.png" data-progressive="/assets/media/modal-images/Apposha/Cluster-Create-Korean-Lang-Page.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/System-Monitoring-Page.png" data-progressive="/assets/media/modal-images/Apposha/System-Monitoring-Page.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/System-Monitoring-Page-2.png" data-progressive="/assets/media/modal-images/Apposha/System-Monitoring-Page-2.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Clusters-Configuration-Page.png" data-progressive="/assets/media/modal-images/Apposha/Clusters-Configuration-Page.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Clusters-Index.png" data-progressive="/assets/media/modal-images/Apposha/Clusters-Index.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Cluster-Configuration-2.png" data-progressive="/assets/media/modal-images/Apposha/Cluster-Configuration-2.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Help-Drawer.png" data-progressive="/assets/media/modal-images/Apposha/Help-Drawer.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Invoice-Page.png" data-progressive="/assets/media/modal-images/Apposha/Invoice-Page.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Invoice-to-PDF.png" data-progressive="/assets/media/modal-images/Apposha/Invoice-to-PDF.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Peer-Connection-Setting-Modal.png" data-progressive="/assets/media/modal-images/Apposha/Peer-Connection-Setting-Modal.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Projects-Index.png" data-progressive="/assets/media/modal-images/Apposha/Projects-Index.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Project-Create-Page.png" data-progressive="/assets/media/modal-images/Apposha/Project-Create-Page.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Projects-Edit.png" data-progressive="/assets/media/modal-images/Apposha/Projects-Edit.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Account-Setting-Page.png" data-progressive="/assets/media/modal-images/Apposha/Account-Setting-Page.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Account-Delete-Modal.png" data-progressive="/assets/media/modal-images/Apposha/Account-Delete-Modal.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/SuperAdmin-Links.png" data-progressive="/assets/media/modal-images/Apposha/SuperAdmin-Links.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Landing-Page.png" data-progressive="/assets/media/modal-images/Apposha/Landing-Page.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/Apposha/Landing-Page-2.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Landing-Page-3.png" data-progressive="/assets/media/modal-images/Apposha/Landing-Page-3.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/SignIn.png" data-progressive="/assets/media/modal-images/Apposha/SignIn.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Signup.png" data-progressive="/assets/media/modal-images/Apposha/Signup.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Reset-Password.png" data-progressive="/assets/media/modal-images/Apposha/Reset-Password.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Cluster-Create-Page.png" data-progressive="/assets/media/modal-images/Apposha/Cluster-Create-Page.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Cluster-Create-Korean-Lang-Page.png" data-progressive="/assets/media/modal-images/Apposha/Cluster-Create-Korean-Lang-Page.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/System-Monitoring-Page.png" data-progressive="/assets/media/modal-images/Apposha/System-Monitoring-Page.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/System-Monitoring-Page-2.png" data-progressive="/assets/media/modal-images/Apposha/System-Monitoring-Page-2.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Clusters-Configuration-Page.png" data-progressive="/assets/media/modal-images/Apposha/Clusters-Configuration-Page.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Clusters-Index.png" data-progressive="/assets/media/modal-images/Apposha/Clusters-Index.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Cluster-Configuration-2.png" data-progressive="/assets/media/modal-images/Apposha/Cluster-Configuration-2.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Help-Drawer.png" data-progressive="/assets/media/modal-images/Apposha/Help-Drawer.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Invoice-Page.png" data-progressive="/assets/media/modal-images/Apposha/Invoice-Page.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Invoice-to-PDF.png" data-progressive="/assets/media/modal-images/Apposha/Invoice-to-PDF.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Peer-Connection-Setting-Modal.png" data-progressive="/assets/media/modal-images/Apposha/Peer-Connection-Setting-Modal.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Projects-Index.png" data-progressive="/assets/media/modal-images/Apposha/Projects-Index.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Project-Create-Page.png" data-progressive="/assets/media/modal-images/Apposha/Project-Create-Page.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Projects-Edit.png" data-progressive="/assets/media/modal-images/Apposha/Projects-Edit.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Account-Setting-Page.png" data-progressive="/assets/media/modal-images/Apposha/Account-Setting-Page.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/Account-Delete-Modal.png" data-progressive="/assets/media/modal-images/Apposha/Account-Delete-Modal.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Apposha/30/SuperAdmin-Links.png" data-progressive="/assets/media/modal-images/Apposha/SuperAdmin-Links.png" alt="by pedram / cooper khoshnevis at webprinciples">
                     </div>
                     <div class="about-btns">
 
@@ -876,35 +876,35 @@
                     </div>
                     <div class="modal-images">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/UBUToday/Landing-Page-1.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/UBUToday/Landing-Page-1.png" alt="by pedram / cooper khoshnevis at webprinciples">
                         
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/UBUToday/Landing-Page-2.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/UBUToday/Landing-Page-2.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Landing-Page-3.png" data-progressive="/assets/media/modal-images/UBUToday/Landing-Page-3.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Landing-Page-3.png" data-progressive="/assets/media/modal-images/UBUToday/Landing-Page-3.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Landing-Page-4.png" data-progressive="/assets/media/modal-images/UBUToday/Landing-Page-4.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Landing-Page-4.png" data-progressive="/assets/media/modal-images/UBUToday/Landing-Page-4.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Landing-Page-5.png" data-progressive="/assets/media/modal-images/UBUToday/Landing-Page-5.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Landing-Page-5.png" data-progressive="/assets/media/modal-images/UBUToday/Landing-Page-5.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Donation-Page.png" data-progressive="/assets/media/modal-images/UBUToday/Donation-Page.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Donation-Page.png" data-progressive="/assets/media/modal-images/UBUToday/Donation-Page.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Donation-Page-2.png" data-progressive="/assets/media/modal-images/UBUToday/Donation-Page-2.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Donation-Page-2.png" data-progressive="/assets/media/modal-images/UBUToday/Donation-Page-2.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Team.png" data-progressive="/assets/media/modal-images/UBUToday/Team.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Team.png" data-progressive="/assets/media/modal-images/UBUToday/Team.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Admin-Login.png" data-progressive="/assets/media/modal-images/UBUToday/Admin-Login.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Admin-Login.png" data-progressive="/assets/media/modal-images/UBUToday/Admin-Login.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Page-Creation-Index.png" data-progressive="/assets/media/modal-images/UBUToday/Page-Creation-Index.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Page-Creation-Index.png" data-progressive="/assets/media/modal-images/UBUToday/Page-Creation-Index.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Page-Creation-Add.png" data-progressive="/assets/media/modal-images/UBUToday/Page-Creation-Add.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Page-Creation-Add.png" data-progressive="/assets/media/modal-images/UBUToday/Page-Creation-Add.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Menu-Navigation-Creation-Add.png" data-progressive="/assets/media/modal-images/UBUToday/Menu-Navigation-Creation-Add.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Menu-Navigation-Creation-Add.png" data-progressive="/assets/media/modal-images/UBUToday/Menu-Navigation-Creation-Add.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Menu-Navigation-Creation-Index.png" data-progressive="/assets/media/modal-images/UBUToday/Menu-Navigation-Creation-Index.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Menu-Navigation-Creation-Index.png" data-progressive="/assets/media/modal-images/UBUToday/Menu-Navigation-Creation-Index.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Menu-Navigation-Order-Page.png" data-progressive="/assets/media/modal-images/UBUToday/Menu-Navigation-Order-Page.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Menu-Navigation-Order-Page.png" data-progressive="/assets/media/modal-images/UBUToday/Menu-Navigation-Order-Page.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Website-Mode-Control.png" data-progressive="/assets/media/modal-images/UBUToday/Website-Mode-Control.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/UBUToday/30/Website-Mode-Control.png" data-progressive="/assets/media/modal-images/UBUToday/Website-Mode-Control.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
                     </div>
                     <div class="about-btns">
@@ -944,33 +944,33 @@
                     </div>
                     <div class="modal-images">
                         
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Landing-Page.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Landing-Page.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Landing-Page.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Landing-Page.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Admin-Login.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Admin-Login.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Admin-Login.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Admin-Login.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Manage-Resources-Index-1.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Manage-Resources-Index-1.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Manage-Resources-Index-1.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Manage-Resources-Index-1.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Company-Info-Setup-Page.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Company-Info-Setup-Page.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Company-Info-Setup-Page.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Company-Info-Setup-Page.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Company-Info-Edit-Page-1.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Company-Info-Edit-Page-1.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Company-Info-Edit-Page-1.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Company-Info-Edit-Page-1.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Company-Info-Edit-Page-2.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Company-Info-Edit-Page-2.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Company-Info-Edit-Page-2.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Company-Info-Edit-Page-2.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Company-Info-Setup-Page-2.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Company-Info-Setup-Page-2.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Company-Info-Setup-Page-2.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Company-Info-Setup-Page-2.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Dynamic-Navbar-Creation-Index.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Dynamic-Navbar-Creation-Index.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Dynamic-Navbar-Creation-Index.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Dynamic-Navbar-Creation-Index.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Dynamic-Navbar-Creation-Edit.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Dynamic-Navbar-Creation-Edit.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Dynamic-Navbar-Creation-Edit.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Dynamic-Navbar-Creation-Edit.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Page-Creation-Index.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Page-Creation-Index.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Page-Creation-Index.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Page-Creation-Index.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Page-Creation-Add-1.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Page-Creation-Add-1.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Page-Creation-Add-1.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Page-Creation-Add-1.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Page-Creation-Add-2.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Page-Creation-Add-2.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/Page-Creation-Add-2.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/Page-Creation-Add-2.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/User-Control-Index.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/User-Control-Index.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/User-Control-Index.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/User-Control-Index.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/User-Control-Edit.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/User-Control-Edit.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/EmmanuelsRug/30/User-Control-Edit.png" data-progressive="/assets/media/modal-images/EmmanuelsRug/User-Control-Edit.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
                     </div>
                     <div class="about-btns">
@@ -1002,11 +1002,11 @@
                         </p>
                     </div>
                     <div class="modal-images">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wendyjomorrison/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/wendyjomorrison/Landing-Page-1.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wendyjomorrison/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/wendyjomorrison/Landing-Page-1.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wendyjomorrison/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/wendyjomorrison/Landing-Page-2.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wendyjomorrison/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/wendyjomorrison/Landing-Page-2.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wendyjomorrison/30/Landing-Page-3.png" data-progressive="/assets/media/modal-images/wendyjomorrison/Landing-Page-3.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wendyjomorrison/30/Landing-Page-3.png" data-progressive="/assets/media/modal-images/wendyjomorrison/Landing-Page-3.png" alt="by pedram / cooper khoshnevis at webprinciples">
                     </div>
                     <div class="about-btns">
                         <a href="http://wendyjomorrison.com/" class="site-btn">VIsit Website</a>
@@ -1042,25 +1042,25 @@
                         </p>
                     </div>
                     <div class="modal-images">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/kpike/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/kpike/Landing-Page-1.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/kpike/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/kpike/Landing-Page-1.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/kpike/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/kpike/Landing-Page-2.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/kpike/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/kpike/Landing-Page-2.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/kpike/30/Landing-Page-3.png" data-progressive="/assets/media/modal-images/kpike/Landing-Page-3.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/kpike/30/Landing-Page-3.png" data-progressive="/assets/media/modal-images/kpike/Landing-Page-3.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/kpike/30/Landing-Page-4.png" data-progressive="/assets/media/modal-images/kpike/Landing-Page-4.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/kpike/30/Landing-Page-4.png" data-progressive="/assets/media/modal-images/kpike/Landing-Page-4.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/kpike/30/Admin-Page.png" data-progressive="/assets/media/modal-images/kpike/Admin-Page.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/kpike/30/Admin-Page.png" data-progressive="/assets/media/modal-images/kpike/Admin-Page.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/kpike/30/Custom-Menu-Index.png" data-progressive="/assets/media/modal-images/kpike/Custom-Menu-Index.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/kpike/30/Custom-Menu-Index.png" data-progressive="/assets/media/modal-images/kpike/Custom-Menu-Index.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/kpike/30/Custom-Menu-Add.png" data-progressive="/assets/media/modal-images/kpike/Custom-Menu-Add.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/kpike/30/Custom-Menu-Add.png" data-progressive="/assets/media/modal-images/kpike/Custom-Menu-Add.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/kpike/30/Scheduler-Page.png" data-progressive="/assets/media/modal-images/kpike/Scheduler-Page.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/kpike/30/Scheduler-Page.png" data-progressive="/assets/media/modal-images/kpike/Scheduler-Page.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/kpike/30/Custom-Pages-Index.png" data-progressive="/assets/media/modal-images/kpike/Custom-Pages-Index.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/kpike/30/Custom-Pages-Index.png" data-progressive="/assets/media/modal-images/kpike/Custom-Pages-Index.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/kpike/30/Menu-Sorting.png" data-progressive="/assets/media/modal-images/kpike/Menu-Sorting.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/kpike/30/Menu-Sorting.png" data-progressive="/assets/media/modal-images/kpike/Menu-Sorting.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
                     </div>
                     <div class="about-btns">
@@ -1096,21 +1096,21 @@
                         </p>
                     </div>
                     <div class="modal-images">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/BLIK/30/Splash.PNG" data-progressive="/assets/media/modal-images/BLIK/Splash.PNG" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/BLIK/30/Splash.PNG" data-progressive="/assets/media/modal-images/BLIK/Splash.PNG" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/BLIK/30/Landing-Screen.PNG" data-progressive="/assets/media/modal-images/BLIK/Landing-Screen.PNG" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/BLIK/30/Landing-Screen.PNG" data-progressive="/assets/media/modal-images/BLIK/Landing-Screen.PNG" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/BLIK/30/Categories.PNG" data-progressive="/assets/media/modal-images/BLIK/Categories.PNG" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/BLIK/30/Categories.PNG" data-progressive="/assets/media/modal-images/BLIK/Categories.PNG" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/BLIK/30/Map-View.PNG" data-progressive="/assets/media/modal-images/BLIK/Map-View.PNG" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/BLIK/30/Map-View.PNG" data-progressive="/assets/media/modal-images/BLIK/Map-View.PNG" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/BLIK/30/Reviews-and-Options.PNG" data-progressive="/assets/media/modal-images/BLIK/Reviews-and-Options.PNG" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/BLIK/30/Reviews-and-Options.PNG" data-progressive="/assets/media/modal-images/BLIK/Reviews-and-Options.PNG" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/BLIK/30/Post-View.PNG" data-progressive="/assets/media/modal-images/BLIK/Post-View.PNG" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/BLIK/30/Post-View.PNG" data-progressive="/assets/media/modal-images/BLIK/Post-View.PNG" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/BLIK/30/Navigation-Options.PNG" data-progressive="/assets/media/modal-images/BLIK/Navigation-Options.PNG" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/BLIK/30/Navigation-Options.PNG" data-progressive="/assets/media/modal-images/BLIK/Navigation-Options.PNG" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/BLIK/30/Transition-to-Navigation.PNG" data-progressive="/assets/media/modal-images/BLIK/Transition-to-Navigation.PNG" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/BLIK/30/Transition-to-Navigation.PNG" data-progressive="/assets/media/modal-images/BLIK/Transition-to-Navigation.PNG" alt="by pedram / cooper khoshnevis at webprinciples">
 
                     </div>
                     <div class="about-btns">
@@ -1142,17 +1142,17 @@
                         </p>
                     </div>
                     <div class="modal-images">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Vocaptionary/30/Screen-1.png" data-progressive="/assets/media/modal-images/Vocaptionary/Screen-1.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Vocaptionary/30/Screen-1.png" data-progressive="/assets/media/modal-images/Vocaptionary/Screen-1.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Vocaptionary/30/Screen-2.png" data-progressive="/assets/media/modal-images/Vocaptionary/Screen-2.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Vocaptionary/30/Screen-2.png" data-progressive="/assets/media/modal-images/Vocaptionary/Screen-2.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Vocaptionary/30/Screen-3.png" data-progressive="/assets/media/modal-images/Vocaptionary/Screen-3.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Vocaptionary/30/Screen-3.png" data-progressive="/assets/media/modal-images/Vocaptionary/Screen-3.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Vocaptionary/30/Screen-4.png" data-progressive="/assets/media/modal-images/Vocaptionary/Screen-4.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Vocaptionary/30/Screen-4.png" data-progressive="/assets/media/modal-images/Vocaptionary/Screen-4.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Vocaptionary/30/Screen-5.png" data-progressive="/assets/media/modal-images/Vocaptionary/Screen-5.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Vocaptionary/30/Screen-5.png" data-progressive="/assets/media/modal-images/Vocaptionary/Screen-5.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Vocaptionary/30/Screen-6.png" data-progressive="/assets/media/modal-images/Vocaptionary/Screen-6.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Vocaptionary/30/Screen-6.png" data-progressive="/assets/media/modal-images/Vocaptionary/Screen-6.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
                     </div>
                     <div class="about-btns">
@@ -1184,15 +1184,15 @@
                         </p>
                     </div>
                     <div class="modal-images">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hashcall-websitebuilder/30/Landing-Page.png" data-progressive="/assets/media/modal-images/hashcall-websitebuilder/Landing-Page.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hashcall-websitebuilder/30/Landing-Page.png" data-progressive="/assets/media/modal-images/hashcall-websitebuilder/Landing-Page.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hashcall-websitebuilder/30/Template-Edit.png" data-progressive="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hashcall-websitebuilder/30/Template-Edit.png" data-progressive="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hashcall-websitebuilder/30/Template-Edit-2.png" data-progressive="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-2.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hashcall-websitebuilder/30/Template-Edit-2.png" data-progressive="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-2.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hashcall-websitebuilder/30/Template-Edit-3.png" data-progressive="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-3.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hashcall-websitebuilder/30/Template-Edit-3.png" data-progressive="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-3.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hashcall-websitebuilder/30/Template-Edit-4.png" data-progressive="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-4.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hashcall-websitebuilder/30/Template-Edit-4.png" data-progressive="/assets/media/modal-images/hashcall-websitebuilder/Template-Edit-4.png" alt="by pedram / cooper khoshnevis at webprinciples">
                     </div>
                     <div class="about-btns">
                         <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1227,11 +1227,11 @@
                         </p>
                     </div>
                     <div class="modal-images">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Eyelevate/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/Eyelevate/Landing-Page-1.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Eyelevate/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/Eyelevate/Landing-Page-1.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Eyelevate/30/Home.png" data-progressive="/assets/media/modal-images/Eyelevate/Home.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Eyelevate/30/Home.png" data-progressive="/assets/media/modal-images/Eyelevate/Home.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Eyelevate/30/Profile-Page.png" data-progressive="/assets/media/modal-images/Eyelevate/Profile-Page.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Eyelevate/30/Profile-Page.png" data-progressive="/assets/media/modal-images/Eyelevate/Profile-Page.png" alt="by pedram / cooper khoshnevis at webprinciples">
                     </div>
                     <div class="about-btns">
                         <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1266,19 +1266,19 @@
                         </p>
                     </div>
                     <div class="modal-images">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/wowchebit/Landing-Page-1.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/wowchebit/Landing-Page-1.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/wowchebit/Landing-Page-2.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/wowchebit/Landing-Page-2.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Landing-Page-3.png" data-progressive="/assets/media/modal-images/wowchebit/Landing-Page-3.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Landing-Page-3.png" data-progressive="/assets/media/modal-images/wowchebit/Landing-Page-3.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Landing-Page-4.png" data-progressive="/assets/media/modal-images/wowchebit/Landing-Page-4.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Landing-Page-4.png" data-progressive="/assets/media/modal-images/wowchebit/Landing-Page-4.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Payments-Index.png" data-progressive="/assets/media/modal-images/wowchebit/Payments-Index.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Payments-Index.png" data-progressive="/assets/media/modal-images/wowchebit/Payments-Index.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Profit-Rate-Index.png" data-progressive="/assets/media/modal-images/wowchebit/Profit-Rate-Index.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Profit-Rate-Index.png" data-progressive="/assets/media/modal-images/wowchebit/Profit-Rate-Index.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Admins-Buy-Sell-Index.png" data-progressive="/assets/media/modal-images/wowchebit/Admins-Buy-Sell-Index.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/wowchebit/30/Admins-Buy-Sell-Index.png" data-progressive="/assets/media/modal-images/wowchebit/Admins-Buy-Sell-Index.png" alt="by pedram / cooper khoshnevis at webprinciples">
                     </div>
                     <div class="about-btns">
                         <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1311,11 +1311,11 @@
                         </p>
                     </div>
                     <div class="modal-images">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/isrc/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/isrc/Landing-Page-1.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/isrc/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/isrc/Landing-Page-1.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/isrc/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/isrc/Landing-Page-2.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/isrc/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/isrc/Landing-Page-2.png" alt="by pedram / cooper khoshnevis at webprinciples">
 
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/isrc/30/Landing-Page-3.png" data-progressive="/assets/media/modal-images/isrc/Landing-Page-3.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/isrc/30/Landing-Page-3.png" data-progressive="/assets/media/modal-images/isrc/Landing-Page-3.png" alt="by pedram / cooper khoshnevis at webprinciples">
                     </div>
                     <div class="about-btns">
                         <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1348,8 +1348,8 @@
                         </p>
                     </div>
                     <div class="modal-images">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hciipot/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/hciipot/Landing-Page-1.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hciipot/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/hciipot/Landing-Page-2.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hciipot/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/hciipot/Landing-Page-1.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/hciipot/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/hciipot/Landing-Page-2.png" alt="by pedram / cooper khoshnevis at webprinciples">
                     </div>
                     <div class="about-btns">
                         <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1380,9 +1380,9 @@
                         </p>
                     </div>
                     <div class="modal-images">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Screen-Fantastic-Games/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/Screen-Fantastic-Games/Landing-Page-1.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Screen-Fantastic-Games/30/Admins-Videos-Index.png" data-progressive="/assets/media/modal-images/Screen-Fantastic-Games/Admins-Videos-Index.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Screen-Fantastic-Games/30/Admins-Videos-Add-Edit.png" data-progressive="/assets/media/modal-images/Screen-Fantastic-Games/Admins-Videos-Add-Edit.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Screen-Fantastic-Games/30/Landing-Page-1.png" data-progressive="/assets/media/modal-images/Screen-Fantastic-Games/Landing-Page-1.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Screen-Fantastic-Games/30/Admins-Videos-Index.png" data-progressive="/assets/media/modal-images/Screen-Fantastic-Games/Admins-Videos-Index.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Screen-Fantastic-Games/30/Admins-Videos-Add-Edit.png" data-progressive="/assets/media/modal-images/Screen-Fantastic-Games/Admins-Videos-Add-Edit.png" alt="by pedram / cooper khoshnevis at webprinciples">
                     </div>
                     <div class="about-btns">
                         <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
@@ -1411,9 +1411,9 @@
                         </p>
                     </div>
                     <div class="modal-images">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Project-Reviews/30/Landing-Page.png" data-progressive="/assets/media/modal-images/Project-Reviews/Landing-Page.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Project-Reviews/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/Project-Reviews/Landing-Page-2.png" alt="">
-                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Project-Reviews/30/Signin-Signup.png" data-progressive="/assets/media/modal-images/Project-Reviews/Signin-Signup.png" alt="">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Project-Reviews/30/Landing-Page.png" data-progressive="/assets/media/modal-images/Project-Reviews/Landing-Page.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Project-Reviews/30/Landing-Page-2.png" data-progressive="/assets/media/modal-images/Project-Reviews/Landing-Page-2.png" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/modal-images/Project-Reviews/30/Signin-Signup.png" data-progressive="/assets/media/modal-images/Project-Reviews/Signin-Signup.png" alt="by pedram / cooper khoshnevis at webprinciples">
                     </div>
                     <div class="about-btns">
                         <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
