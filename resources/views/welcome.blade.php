@@ -116,16 +116,12 @@
                         </div>
                         <div class="about-me-info">
                             <p>
-                                <span class="span-title">Phone</span>
-                                <span>+1-306-580-3888</span>
-                            </p>
-                            <p>
                                 <span class="span-title">Email</span>
                                 <span>pedramkhoshnevis@gmail.com</span>
                             </p>
                             <p>
                                 <span class="span-title">Address</span>
-                                <span>Regina SK, CA</span>
+                                <span>Thunder Bay, Ontario, CA</span>
                             </p>
                             <p>
                                 <span class="span-title">Social</span>
