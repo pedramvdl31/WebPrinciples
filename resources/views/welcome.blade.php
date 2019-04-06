@@ -121,7 +121,7 @@
                             </p>
                             <p>
                                 <span class="span-title">Address</span>
-                                <span>Thunder Bay, Ontario, CA</span>
+                                <span>Thunder Bay, Ontario, Canada</span>
                             </p>
                             <p>
                                 <span class="span-title">Social</span>
