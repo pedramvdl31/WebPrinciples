@@ -22,7 +22,8 @@
     <meta name="description" content="Pedram Khoshnevis / Cooper Khoshnevis / Pedram khayyatkhoshnevis">
     <meta name="og:title" property="og:title" content="Pedram Khoshnevis - Portfolio">
     <meta property="og:description" content="Pedram Khoshnevis - Portfolio">
-    <meta property="og:url" content="http://webprinciples.com">
+    <meta property="og:url" content="https://webprinciples.com">
+    <link rel="canonical" href="{{Request::fullUrl()}}" />
     <meta property="og:type" content="Portfolio" />
     <meta property="og:image" content="http://webprinciples.com/assets/media/hello-section/2-resized.jpg" />
     <meta name="robots" content="index, follow">
