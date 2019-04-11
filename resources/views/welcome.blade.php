@@ -130,7 +130,7 @@
                                     <a target="_blank" href="https://www.facebook.com/pedram.vodl" class="mdi fonts-icons mdi-facebook"></a>
                                     <a target="_blank" href="https://www.linkedin.com/in/pedramkhoshnevis" class="mdi fonts-icons mdi-linkedin"></a>
                                     <a target="_blank" href="https://github.com/pedramvdl31" class="mdi fonts-icons mdi-github-circle"></a>
-                                    <!-- <a target="_blank" href="https://gitlab.com/pedram31" class="fonts-icons fab fa-gitlab"></a> -->
+                                    <a target="_blank" href="https://www.youtube.com/c/cryptocoop" class="mdi fonts-icons mdi-youtube-play"></a>
                                 </span>
                             </p>
                         </div>
@@ -179,7 +179,7 @@
                             <div class="advantages-box">
                                 <h4>Development</h4>
                                 <div class="opacity-box">
-                                    <p>JavaScript, PHP(Laravel), React-Native, Node.js, MongoDB, Redis, Socket.io, Git, Rest-Full API design, C++, Python. </p>
+                                    <p>JavaScript, PHP(Laravel), React-Native, Node.js, Redis, Socket.io, Git, Rest-Full API design, C++, Python, PhoneGap / Cordova, Ionic. </p>
                                 </div>
                             </div>
                         </div>
@@ -198,7 +198,7 @@
                             <div class="advantages-box">
                                 <h4>Frontend Development</h4>
                                 <div class="opacity-box">
-                                    <p>HTML, CSS, SASS, Bootstrap, WordPress, PhoneGap / Cordova, Ionic, Angular.js.</p>
+                                    <p>HTML, CSS, SASS, Responsive Web Design(Bootstrap).</p>
                                 </div>
                             </div>
                         </div>
