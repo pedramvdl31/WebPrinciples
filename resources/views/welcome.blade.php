@@ -46,7 +46,6 @@
             <div class="row">
                 <div class="col-md-3 col-xs-8 slideInLeft">
                     <div class="logo">
-                        <span class="point">Pedram</span>
                     </div>
                 </div>
                 <div class="col-md-9 hidden-sm hidden-xs slideInRight">
@@ -102,23 +101,25 @@
             <div class="row">
                 <div class="col-md-6 about-img-wrap">
                     <div class="about-img wow slideInRight" style="text-align: -webkit-auto;">
-                        <img id="headshot"  class="progressive__img progressive--not-loaded img-responsive" src="/assets/media/hello-section/30/Webp.net-resizeimage.jpeg" data-progressive="/assets/media/hello-section/Webp.net-resizeimage.jpeg" style="object-fit: contain !important" alt="pedram khoshnevis portfolio">
+                        <img id="headshot"  class=" img-responsive" src="/assets/media/hello-section/IMG-20200123-WA0000.jpg?1" style="object-fit: contain !important" alt="pedram khoshnevis portfolio">
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="about-me wow slideInLeft">
                         <div class="about-me-title">
-                            <h1><span class="point">I am Pedram Khoshnevis</span></h1>
+                            <h1><span class="point">Pedram Khoshnevis</span></h1>
                         </div>
                         <div class="about-me-text">
                             <div class="opacity-box">
-                                <p>I have 5 years of professional programming experience and during this time, I have developed countless programs to solve any challenging problems that I have faced. I am detail oriented, a quick learner and a team player. In regards to programs developed, I pay special attention to ensure that security, integrity, and efficiencies are maintained. My studies in Computer Science with a Minor in Management has familiarized me with Customer Relationship Management (CRM), Enterprise Resource Planning (ERP), Project Management, and Business Analysis.</p>
+                                <p>7 years of professional programming experience and during this time, I have developed countless programs and applications to solve the challenging problems I faced. I am a perfectionist, detail-oriented, and capable of leading a team. In regards to the program developed, I pay special attention to ensure that security, integrity, and efficiencies are maintained while creating a harmonious balance in terms of ease-of-use and user-friendliness. My studies in Computer Science and Management has familiarized me with Customer Relationship Management (CRM), Enterprise Resource Planning (ERP), Project Management, and Business Analysis. I prefer long-term projects over short-term projects and have an entrepreneurial mindset.</p>
                             </div>
                         </div>
                         <div class="about-me-info">
                             <p>
                                 <span class="span-title">Email</span>
                                 <span>pedramkhoshnevis@gmail.com</span>
+                                <span class="span-title"></span>
+                                <span>pkhayyat@lakeheadu.ca</span>
                             </p>
                             <p>
                                 <span class="span-title">Address</span>
@@ -136,7 +137,7 @@
                         </div>
                         <div class="about-btns">
                             <!-- <a data-toggle="modal" data-target="#contact-modal" href="#" class="site-btn">Contact me</a> -->
-                            <a target="_blank" href="/assets/resume/Pedram Khoshnevis Resume.pdf" class="site-btn gray-btn">Download Resume</a>
+                            <a target="_blank" href="https://drive.google.com/open?id=18ViDHYOMvkzoBvt0fJAnBt157l2mZwKJ" class="site-btn gray-btn">Download Resume</a>
                         </div>
                     </div>
                 </div>
@@ -409,6 +410,69 @@
         </div>
     </section>
 
+    <section id="publication" class="section">
+        <div class="container">
+            <div class="row wave-bg">
+                <div class="zigzag wow slideInLeft">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
+                        <g>
+                            <rect class="st0" width="105" height="20"/>
+                            <g>
+                                <polyline class="st1" points="2.5,5 16.8,15 31.1,5 45.3,15 59.6,5 73.9,15 88.2,5 102.5,15   "/>
+                            </g>
+                        </g>
+                    </svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
+                        <g>
+                            <rect class="st0" width="105" height="20"/>
+                            <g>
+                                <polyline class="st1" points="2.5,5 16.8,15 31.1,5 45.3,15 59.6,5 73.9,15 88.2,5 102.5,15   "/>
+                            </g>
+                        </g>
+                    </svg>
+                </div>
+                <div class="col-md-4 wow slideInLeft">
+                    <div class="section-sidebar">
+                        <h2><span class="point">Publication</span></h2>
+                        <div class="opacity-box">
+                            <p>Academic Publications</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-8 right-box">
+
+                    <div class="row wow zoomIn">
+                        <div class="col-md-12">
+                            <div class="about-row">
+                                <h4 class="about-tittle">Smart City Response to Homelessness</h4>
+                                <p>2020</p>
+                                <div class="opacity-box">
+                                    <p><strong>Publisher:</strong> IEEE</p>
+                                    <a href="https://ieeexplore.ieee.org/document/8955816/similar#similar">https://ieeexplore.ieee.org/document/8955816/similar#similar</a>
+                                    <a href="https://www.homelesshub.ca/resource/smart-city-response-homelessness">https://www.homelesshub.ca/resource/smart-city-response-homelessness</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="row wow zoomIn">
+                        <div class="col-md-12">
+                            <div class="about-row">
+                                <h4 class="about-tittle">Using aerial canopy data from UAVs to measure the effects of neighbourhood competition on individual tree growth</h4>
+                                <p>2020</p>
+                                <div class="opacity-box">
+                                    <p><strong>Publisher:</strong> Elsevier: Forest Ecology and Management</p>
+                                    <a href="https://www.sciencedirect.com/science/article/abs/pii/S037811271932167X">https://www.sciencedirect.com/science/article/abs/pii/S037811271932167X</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
     <section id="portfolio" class="section section-small-padding">
         <div class="container">
             <div class="row">
@@ -433,6 +497,21 @@
                 <div class="col-md-12">
                     <div class="portfolio">
                         <div class="row">
+
+                            <div class="col-md-3 col-sm-6 col-xs-6 mix apps wow flipInX">
+                                <a data-toggle="modal" data-target="#portfolio-modal" data-name="weekapp" title="Android and iOS Appication" href="#" class="portfolio-box">
+                                    <div class="portfolio-img">
+                                         <img  class="progressive__img progressive--not-loaded" src="/assets/media/portfolio-images/Research-and-Innovation-App/30.jpg" data-progressive="/assets/media/portfolio-images/Research-and-Innovation-App/Resarech-and-Innovation-Week-App-1.jpg" style="object-fit: contain !important" alt="apposha.io by WebPrinciples" class="img-responsive">
+                                    </div>
+                                    <div class="portfolio-name">
+                                        <span>Lakehead University, Research and Innovation iOS and Android App</span>
+                                    </div>
+                                    <div class="portfolio-date">
+                                        <span>February, 2020</span>
+                                    </div>
+                                </a>
+                            </div>
+
                             <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
                                 <a data-toggle="modal" data-target="#portfolio-modal" data-name="Apposha" title="Web app “Database as a service”" href="#" class="portfolio-box">
                                     <div class="portfolio-img">
@@ -622,147 +701,6 @@
         </div>
     </section>
 
-    <!-- <section id="feedback" class="section">
-        <div class="container">
-            <div class="row wave-bg">
-                <div class="zigzag wow slideInLeft">
-                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
-                        <g>
-                            <rect class="st0" width="105" height="20"/>
-                            <g>
-                                <polyline class="st1" points="2.5,5 16.8,15 31.1,5 45.3,15 59.6,5 73.9,15 88.2,5 102.5,15   "/>
-                            </g>
-                        </g>
-                    </svg>
-                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
-                        <g>
-                            <rect class="st0" width="105" height="20"/>
-                            <g>
-                                <polyline class="st1" points="2.5,5 16.8,15 31.1,5 45.3,15 59.6,5 73.9,15 88.2,5 102.5,15   "/>
-                            </g>
-                        </g>
-                    </svg>
-                </div>
-                <div class="col-md-4 wow slideInLeft">
-                    <div class="section-sidebar">
-                        <h2><span class="point">Feedback</span></h2>
-                        <div class="opacity-box">
-                            <p>Take a look at the reviews of my customers and ensure the quality of my services.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-8 right-box">
-                    <div class="row wow zoomIn">
-                        <div class="col-md-12">
-                            <div class="feedback-block">
-                                <img class="js-lazy-image" class="feedback-image" src="/assets/media/feedback-images/feedback-1.jpg" alt="by pedram / cooper khoshnevis at webprinciples">
-                                <h4 class="about-tittle">Stacey Don</h4>
-                                <p class="about-info">President @ Coolor Studio</p>
-                                <div class="opacity-box">
-                                    <p>"Considers problems as a challenge and enjoys finding creative yet appropriate
-                                        solutions. Pedram is able to work out his own solutions, but also works
-                                        well with a group to solve problems. Performs most jobs well and has the
-                                        habit of checking work outcomes. Pedram is achieving excellence in some areas
-                                        but in others is not yet achieving the highest standards.""</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <hr>
-                    <div class="row wow zoomIn">
-                        <div class="col-md-12">
-                            <div class="feedback-block">
-                                <img class="js-lazy-image" class="feedback-image" src="/assets/media/feedback-images/feedback-2.jpg" alt="by pedram / cooper khoshnevis at webprinciples">
-                                <h4 class="about-tittle">Anson Shura</h4>
-                                <p class="about-info">Project Manager @ Motion Studio</p>
-                                <div class="opacity-box">
-                                    <p>“He will always try to do what is required, even if it means performing tasks that
-                                      are not in the job description or if required to do extra work unexpectedly. However,
-                                      may sometimes complain about the extra load. Aiming for a top job in the organization.
-                                      He sets very high standards, aware that this will bring attention and promotion.”</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <hr>
-                    <div class="row wow zoomIn">
-                        <div class="col-md-12">
-                            <div class="feedback-block">
-                                <img class="js-lazy-image" class="feedback-image" src="/assets/media/feedback-images/feedback-3.jpg" alt="by pedram / cooper khoshnevis at webprinciples">
-                                <h4 class="about-tittle">Gaylord Jefferson</h4>
-                                <p class="about-info">Developer @ Illskill Agency</p>
-                                <div class="opacity-box">
-                                    <p>“When working to a firm but realistic deadline, Pedram always completes tasks to a
-                                       high standard. Care and accuracy is obvious even when put under pressure of time.
-                                       Prepared to work all the extra hours it takes to meet the deadline.”</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-     -->
-    <!-- <section id="contact" class="section">
-        <div class="container">
-            <div class="row wave-bg">
-                <div class="zigzag wow slideInLeft">
-                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
-                        <g>
-                            <rect class="st0" width="105" height="20"/>
-                            <g>
-                                <polyline class="st1" points="2.5,5 16.8,15 31.1,5 45.3,15 59.6,5 73.9,15 88.2,5 102.5,15   "/>
-                            </g>
-                        </g>
-                    </svg>
-                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
-                        <g>
-                            <rect class="st0" width="105" height="20"/>
-                            <g>
-                                <polyline class="st1" points="2.5,5 16.8,15 31.1,5 45.3,15 59.6,5 73.9,15 88.2,5 102.5,15   "/>
-                            </g>
-                        </g>
-                    </svg>
-                </div>
-                <div class="col-md-4 wow slideInLeft">
-                    <div class="section-sidebar">
-                        <h2><span class="point">Contact</span></h2>
-                        <div class="opacity-box">
-                            <p>Are you working on something great? I would love to help make it
-                                happen! Drop me a letter and start your project right now! Just do it.</p>
-                        </div>
-                    </div>
-                </div>
-                <form action="#" class="wow slideInRight js-footer-form">
-                    <div class="form-wrapper">
-                        <div class="col-md-3">
-                            <div class="form-group">
-                                <input class="form-field js-field-name" type="text" placeholder="Name" required>
-                                <span class="form-validation"></span>
-                                <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
-                            </div>
-
-                            <div class="form-group">
-                                <input class="form-field js-field-email" type="email" placeholder="E-mail" required>
-                                <span class="form-validation"></span>
-                                <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
-                            </div>
-                        </div>
-                        <div class="col-md-5">
-                            <div class="form-group">
-                                <textarea class="form-field js-field-message" placeholder="Message" required></textarea>
-                                <span class="form-validation"></span>
-                            </div>
-                            <div class="submit-holder">
-                                <input class="site-btn" type="submit" value="Send message">
-                            </div>
-                        </div>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </section> -->
 
     <footer class="footer text-center">
         <div class="container">
@@ -776,10 +714,65 @@
         </div>
     </footer>
 
+
     <!-- Portfolio modal -->
     <div class="modal fade" id="portfolio-modal" tabindex="-1" role="dialog" aria-labelledby="portfolio-modal">
         <div class="modal-dialog" role="document">
             <div class="modal-content" >
+
+                <div class="modal-body" data-name="weekapp">
+                    <div class="modal-title">
+                        <h1><span class="point">Native iOS and Android Application for Research and Innovation Center (Lakehead University, ON Canada)</span></h1>
+                    </div>
+                    <div class="modal-description">
+                        <p>This App was created for the Research and Innovation Center. The app shows recent events of Lakehead University. Users can browse events of two campuses, and add the events to their phone's native calendar and create reminders. Server data is served over HTTPS protocol and utilizes AWS S3 CND capabilities.</p>
+                        
+                        <p>
+
+                            <a href="https://apps.apple.com/ca/app/research-and-innovation-week/id1497433721" target="_blank" style="color: blue">On iOS App Store</a>
+                            <br>
+                            <a href="https://play.google.com/store/apps/details?id=com.webprinciples.weekapp" target="_blank" style="color: blue">On Google Play Store</a>
+                            <br>
+                            <a href="https://drive.google.com/file/d/1LAk29txvpFPWp8FuhLEMuq75INp3nRe4/view?usp=sharing" target="_blank" style="color: blue">iOS Video Demo</a>
+                            <br>
+                            <a href="https://drive.google.com/file/d/1pgausfHVebgHI4RihuOYN7k3yFeO4as6/view?usp=sharing" target="_blank" style="color: blue">Android Video Demo</a>
+                            <br>
+                        </p>
+
+                        <p><strong>What Did I learn?</strong></p>  
+                        <ul>
+                            <li>Laravel 5 (Server)</li>
+                            <li>React Native</li>
+                            <li>Expo</li>
+                            <li>AWS EC2, </li>
+                            <li>MySQL seeding and migration</li>
+                            <li>Linux, Apache, MySQL, PHP(LAMP)</li>
+                        </ul>
+                    </div>
+                    <div class="about-me-info">
+                        <p>
+                            <span class="span-title">Stack</span>
+                            <span>PHP LARAVEL, HTML, CSS, Bootstrap, Javascript, MySQL</span>
+                        </p>
+                        <p>
+                            <span class="span-title">Date</span>
+                            <span>April, 2018</span>
+                        </p>
+                    </div>
+                    <div class="modal-images">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Research-and-Innovation-App/30-1.jpg" data-progressive="/assets/media/modal-images/Research-and-Innovation-App/Resarech-and-Innovation-Week-App-1.PNG" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Research-and-Innovation-App/30-2.jpg" data-progressive="/assets/media/modal-images/Research-and-Innovation-App/Resarech-and-Innovation-Week-App-2.PNG" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Research-and-Innovation-App/30-3.jpg" data-progressive="/assets/media/modal-images/Research-and-Innovation-App/Resarech-and-Innovation-Week-App-3.PNG" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Research-and-Innovation-App/30-4.jpg" data-progressive="/assets/media/modal-images/Research-and-Innovation-App/Resarech-and-Innovation-Week-App-4.PNG" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/Research-and-Innovation-App/30-5.jpg" data-progressive="/assets/media/modal-images/Research-and-Innovation-App/Resarech-and-Innovation-Week-App-5.PNG" alt="by pedram / cooper khoshnevis at webprinciples">
+                    </div>
+                    <div class="about-btns">
+
+        
+                        <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
+                    </div>
+                </div>
+
                 <div class="modal-body" data-name="Apposha">
                     <div class="modal-title">
                         <h1><span class="point">Startup Web Application, CMS and Database as a Service (DBaaS) for Apposha.io</span></h1>
@@ -795,7 +788,7 @@
                             <li>HTML, CSS, JavaScript</li>
                             <li>Linux, Apache, MySQL, PHP(LAMP)</li>
                             <li>Vagrant Local Virtual Machine</li>
-                            <li>& much more</li>
+                            
                         </ul>
                     </div>
                     <div class="about-me-info">
@@ -856,7 +849,7 @@
                             <li>HTML, CSS, JavaScript</li>
                             <li>Linux, Apache, MySQL, PHP(LAMP)</li>
                             <li>Vagrant Local Virtual Machine</li>
-                            <li>& much more</li>
+                            
                             <li>API integration</li>
                         </ul>
                         <a href="https://github.com/pedramvdl31/UBUToday" style="color: blue">https://github.com/pedramvdl31/UBUToday</a>
@@ -924,7 +917,7 @@
                             <li>HTML, CSS, JavaScript</li>
                             <li>Linux, Apache, MySQL, PHP(LAMP)</li>
                             <li>Vagrant Local Virtual Machine</li>
-                            <li>& much more</li>
+                            
                             <li>API integration</li>
                         </ul>
                         <a href="https://github.com/pedramvdl31/emmanuels" style="color: blue">https://github.com/pedramvdl31/emmanuels</a>
@@ -1210,7 +1203,7 @@
                             <li>HTML, CSS, JavaScript</li>
                             <li>Linux, APACHE, MySQL, PHP(LAMP) set up</li>
                             <li>Vagrant Local Virtual Machine</li>
-                            <li>& much more</li>
+                            
                         </ul>
                     </div>
                     <div class="about-me-info">
