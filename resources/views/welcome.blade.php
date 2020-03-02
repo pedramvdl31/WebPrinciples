@@ -701,13 +701,48 @@
         </div>
     </section>
 
+    <section id="competitions" class="section section-small-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-title wow slideInLeft">
+                        <h2><span class="point">Competitions</span></h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="portfolio">
+                        <div class="row">
+
+                            <div class="col-md-3 col-sm-6 col-xs-6 mix wow flipInX">
+                                <a data-toggle="modal" data-target="#portfolio-modal" data-name="hackit" title="HACK IT 2019, Grand Prize Winner" href="#" class="portfolio-box">
+                                    <div class="portfolio-img">
+                                         <img  class="progressive__img progressive--not-loaded" src="/assets/media/competitions/hackathon/30.jpg" data-progressive="/assets/media/competitions/hackathon/270.jpg" style="object-fit: contain !important" alt="hackit hackathon winner" class="img-responsive">
+                                    </div>
+                                    <div class="portfolio-name">
+                                        <span>HACK IT 2019, Grand Prize Winner</span>
+                                    </div>
+                                    <div class="portfolio-date">
+                                        <span>February, 2019</span>
+                                    </div>
+                                </a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
 
     <footer class="footer text-center">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 wow zoomIn">
                     <div class="copyright">
-                        <p>Copyright 2019 Pedram.</p>
+                        <p>Copyright 2020 Pedram.</p>
                     </div>
                 </div>
             </div>
@@ -772,7 +807,6 @@
                         <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
                     </div>
                 </div>
-
                 <div class="modal-body" data-name="Apposha">
                     <div class="modal-title">
                         <h1><span class="point">Startup Web Application, CMS and Database as a Service (DBaaS) for Apposha.io</span></h1>
@@ -1409,6 +1443,22 @@
                         <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
                     </div>
                 </div>
+                <div class="modal-body" data-name="hackit">
+                    <div class="modal-title">
+                            <h1><span class="point">Hack IT 2019</span></h1>
+                    </div>
+                    <div class="modal-description">
+                        <p>Hackathon Grand Prize Winner</p>
+                        <p>The theme of the hackathon was to develop a system for insurance fraud detection. We came up with a solution that tackled fraudulent claim reporting using AI. Our 4 member group used machine learning for this project.</p>
+                    </div>
+
+                    <div class="modal-images">
+                        <img style="width:100%" class="load-on-modal-open img-responsive"  src="/assets/media/competitions/hackathon/30.jpg" data-progressive="/assets/media/competitions/hackathon/hackit-cert2.jpg" alt="by pedram khoshnevis, khayyatkhoshnevis, cooper khoshnevis">
+                    </div>
+                    <div class="about-btns">
+                        <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
+                    </div>
+                    </div>
             </div>
         </div>
     </div>
