@@ -111,7 +111,7 @@
                         </div>
                         <div class="about-me-text">
                             <div class="opacity-box">
-                                <p>7 years of professional programming experience and during this time, I have developed countless programs and applications to solve the challenging problems I faced. I am a perfectionist, detail-oriented, and capable of leading a team. In regards to the program developed, I pay special attention to ensure that security, integrity, and efficiencies are maintained while creating a harmonious balance in terms of ease-of-use and user-friendliness. My studies in Computer Science and Management has familiarized me with Customer Relationship Management (CRM), Enterprise Resource Planning (ERP), Project Management, and Business Analysis. I prefer long-term projects over short-term projects and have an entrepreneurial mindset.</p>
+                                <p>I have 7 years of professional programming experience and during this time, I have developed countless programs and applications to solve the challenging problems I faced. In regards to the program developed, I pay special attention to ensure that security, integrity, and efficiencies are maintained while creating a harmonious balance in terms of ease-of-use, user-friendliness, and functionalities. My studies in Computer Science and Management has familiarized me with Customer Relationship Management (CRM), Enterprise Resource Planning (ERP), Project Management, and Business Analysis. I prefer long-term projects over short-term projects and have an entrepreneurial mindset.</p>
                             </div>
                         </div>
                         <div class="about-me-info">
