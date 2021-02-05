@@ -137,7 +137,7 @@
                         </div>
                         <div class="about-btns">
                             <!-- <a data-toggle="modal" data-target="#contact-modal" href="#" class="site-btn">Contact me</a> -->
-                            <a target="_blank" href="https://drive.google.com/open?id=18ViDHYOMvkzoBvt0fJAnBt157l2mZwKJ" class="site-btn gray-btn">Download Resume</a>
+                            <a target="_blank" href="https://drive.google.com/file/d/1AHz7_x5S0jAWpkAj3T7Fc8ZKE-60axwg/view?usp=sharing" class="site-btn gray-btn">Download Resume</a>
                         </div>
                     </div>
                 </div>
