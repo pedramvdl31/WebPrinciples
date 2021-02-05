@@ -101,7 +101,7 @@
             <div class="row">
                 <div class="col-md-6 about-img-wrap">
                     <div class="about-img wow slideInRight" style="text-align: -webkit-auto;">
-                        <img id="headshot"  class=" img-responsive" src="/assets/media/hello-section/IMG-20200123-WA0000.jpg?1" style="object-fit: contain !important" alt="pedram khoshnevis portfolio">
+                        <img id="headshot"  class=" img-responsive" src="/assets/media/hello-section/pedram_khoshnevis.jpg?1" style="object-fit: contain !important" alt="pedram khoshnevis portfolio">
                     </div>
                 </div>
                 <div class="col-md-6">
