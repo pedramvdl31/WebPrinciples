@@ -30,6 +30,7 @@
     <link href="https://fonts.googleapis.com/css?family=Lato|Roboto" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/assets/css/main.css?1">
+    <link rel="stylesheet" type="text/css" href="/assets/css/index.css?1">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/progressively/dist/progressively.min.css">
 </head>
 
@@ -101,7 +102,7 @@
             <div class="row">
                 <div class="col-md-6 about-img-wrap">
                     <div class="about-img wow slideInRight" style="text-align: -webkit-auto;">
-                        <img id="headshot"  class=" img-responsive" src="/assets/media/hello-section/pedram_khoshnevis.jpg?1" style="object-fit: contain !important" alt="pedram khoshnevis portfolio">
+                        <img id="headshot"  class=" img-responsive" src="/assets/media/hello-section/Webp.net-resizeimage.jpg?1" style="object-fit: contain !important" alt="pedram khoshnevis portfolio">
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -180,7 +181,7 @@
                             <div class="advantages-box">
                                 <h4>Development</h4>
                                 <div class="opacity-box">
-                                    <p>JavaScript, PHP(Laravel), React-Native, Node.js, Redis, Socket.io, Git, Rest-Full API design, C++, Python, PhoneGap / Cordova, Ionic. </p>
+                                    <p>JavaScript, PHP(Laravel), React-Native, Node.js, Angular Framework, Redis, Socket.io, Git, Rest-Full API design, C++, Python, PhoneGap / Cordova, Ionic. </p>
                                 </div>
                             </div>
                         </div>
@@ -382,6 +383,21 @@
                         <div class="col-md-12">
                             <div class="about-row">
                                 <h4 class="about-tittle">Master of Computer Science</h4>
+                                <p class="about-info">Lakehead University, Ontario, Canada.</p>
+                                <p><strong>Specialized in Artificial Intelligence</strong></p>
+                                <p>May, 2019 – May, 2021</p>
+                                <div class="opacity-box">
+                                    <p>Conducted extensive research in regards to implementing methods of computational intelligence that help mitigate problems faced in the social sector.</p>
+                                    <p>Recipient of multiple scholarships.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="row wow zoomIn">
+                        <div class="col-md-12">
+                            <div class="about-row">
+                                <h4 class="about-tittle">Master of Computer Science</h4>
                                 <p class="about-info">University of Seoul</p>
                                 <p>Mar, 2013 – Mar, 2015</p>
                                 <div class="opacity-box">
@@ -444,12 +460,48 @@
                     <div class="row wow zoomIn">
                         <div class="col-md-12">
                             <div class="about-row">
+                                <h4 class="about-tittle">Design, Development and Usability Evaluation of a Web-based AI-supported Simulation And Modeling Software For Homelessness.</h4>
+                                <p>2021</p>
+                                <div class="opacity-box">
+                                    <p><strong>Submitted to:</strong> Journal Informatics for Health and Social Care.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="row wow zoomIn">
+                        <div class="col-md-12">
+                            <div class="about-row">
+                                <h4 class="about-tittle">Comparison of Moderated and Unmoderated Remote Usability Sessions for an AI-Supported Simulation and Modeling Software: A Randomized Controlled Trial.</h4>
+                                <p>2021</p>
+                                <div class="opacity-box">
+                                    <p><strong>Submitted to:</strong> ACM CSCW 2021.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="row wow zoomIn">
+                        <div class="col-md-12">
+                            <div class="about-row">
+                                <h4 class="about-tittle">Role of Computational Intelligence and IoT in Smart Cities to Address Homelessness.</h4>
+                                <p>2021</p>
+                                <div class="opacity-box">
+                                    <p><strong>Publisher:</strong> IEEE Internet of Things Magazine.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="row wow zoomIn">
+                        <div class="col-md-12">
+                            <div class="about-row">
                                 <h4 class="about-tittle">Smart City Response to Homelessness</h4>
                                 <p>2020</p>
                                 <div class="opacity-box">
                                     <p><strong>Publisher:</strong> IEEE</p>
-                                    <a href="https://ieeexplore.ieee.org/document/8955816/similar#similar">https://ieeexplore.ieee.org/document/8955816/similar#similar</a>
-                                    <a href="https://www.homelesshub.ca/resource/smart-city-response-homelessness">https://www.homelesshub.ca/resource/smart-city-response-homelessness</a>
+                                    <a class="link" href="https://ieeexplore.ieee.org/document/8955816/similar#similar">https://ieeexplore.ieee.org/document/8955816/similar#similar</a>
+                                    <a class="link" href="https://www.homelesshub.ca/resource/smart-city-response-homelessness">https://www.homelesshub.ca/resource/smart-city-response-homelessness</a>
                                 </div>
                             </div>
                         </div>
@@ -462,7 +514,7 @@
                                 <p>2020</p>
                                 <div class="opacity-box">
                                     <p><strong>Publisher:</strong> Elsevier: Forest Ecology and Management</p>
-                                    <a href="https://www.sciencedirect.com/science/article/abs/pii/S037811271932167X">https://www.sciencedirect.com/science/article/abs/pii/S037811271932167X</a>
+                                    <a class="link" href="https://www.sciencedirect.com/science/article/abs/pii/S037811271932167X">https://www.sciencedirect.com/science/article/abs/pii/S037811271932167X</a>
                                 </div>
                             </div>
                         </div>
@@ -497,6 +549,34 @@
                 <div class="col-md-12">
                     <div class="portfolio">
                         <div class="row">
+
+                            <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
+                                <a data-toggle="modal" data-target="#portfolio-modal" data-name="cra-new" title="Android and iOS Appication" href="#" class="portfolio-box">
+                                    <div class="portfolio-img">
+                                         <img  class="progressive__img progressive--not-loaded" src="/assets/media/portfolio-images/CRA-1/30/logo-1.jpg" data-progressive="/assets/media/portfolio-images/CRA-1/logo-1.jpg" style="object-fit: contain !important" alt="apposha.io by WebPrinciples" class="img-responsive">
+                                    </div>
+                                    <div class="portfolio-name">
+                                        <span>Text Simplifier. Angular, NodeJS</span>
+                                    </div>
+                                    <div class="portfolio-date">
+                                        <span>February, 2020</span>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="col-md-3 col-sm-6 col-xs-6 mix web-sites wow flipInX">
+                                <a data-toggle="modal" data-target="#portfolio-modal" data-name="cra-old" title="Android and iOS Appication" href="#" class="portfolio-box">
+                                    <div class="portfolio-img">
+                                         <img  class="progressive__img progressive--not-loaded" src="/assets/media/portfolio-images/CRA-1/30/logo-2.jpg" data-progressive="/assets/media/portfolio-images/CRA-1/logo-2.jpg" style="object-fit: contain !important" alt="apposha.io by WebPrinciples" class="img-responsive">
+                                    </div>
+                                    <div class="portfolio-name">
+                                        <span>Text Simplifier. Laravel, PHP</span>
+                                    </div>
+                                    <div class="portfolio-date">
+                                        <span>February, 2020</span>
+                                    </div>
+                                </a>
+                            </div>
 
                             <div class="col-md-3 col-sm-6 col-xs-6 mix apps wow flipInX">
                                 <a data-toggle="modal" data-target="#portfolio-modal" data-name="weekapp" title="Android and iOS Appication" href="#" class="portfolio-box">
@@ -742,7 +822,7 @@
             <div class="row">
                 <div class="col-md-12 wow zoomIn">
                     <div class="copyright">
-                        <p>Copyright 2020 Pedram.</p>
+                        <p>Copyright 2021 Pedram.</p>
                     </div>
                 </div>
             </div>
@@ -755,6 +835,86 @@
         <div class="modal-dialog" role="document">
             <div class="modal-content" >
 
+
+                <div class="modal-body" data-name="cra-new">
+                    <div class="modal-title">
+                        <h1><span class="point">Text Simplification. Full-stack development using Angular framework and NodeJS.</span></h1>
+                    </div>
+                    <div class="modal-description">
+                        <p>A project that uses AI methods to simplify the Canada Revenue Agency (CRA) documents (still in the development phase). The development team is consists of 3 members from Lakehead University and supervised by four members from the CRA organization and one member from Lakehead University (references are available upon request).</p>
+                        <br>
+                        <p><strong>What Did I learn?</strong></p>  
+                        <ul>
+                            <li>NodeJS (Server)</li>
+                            <li>Angular frontend Framework</li>
+                            <li>AWS EC2</li>
+                            <li>PostgresSQL</li>
+                        </ul>
+                    </div>
+                    <div class="about-me-info">
+                        <p>
+                            <span class="span-title">Stack</span>
+                            <span>NodeJS, Angular, PostgresSQL</span>
+                        </p>
+                        <p>
+                            <span class="span-title">Date</span>
+                            <span>April, 2021</span>
+                        </p>
+                    </div>
+                    <div class="modal-images">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/CRA/new/30-1.jpg" data-progressive="/assets/media/modal-images/CRA/new/1.PNG" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/CRA/new/30-2.jpg" data-progressive="/assets/media/modal-images/CRA/new/2.PNG" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/CRA/new/30-3.jpg" data-progressive="/assets/media/modal-images/CRA/new/3.PNG" alt="by pedram / cooper khoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/CRA/new/30-4.jpg" data-progressive="/assets/media/modal-images/CRA/new/4.PNG" alt="by pedram / cooper khoshnevis at webprinciples">
+                    </div>
+                    <div class="about-btns">
+                        <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
+                    </div>
+                </div>
+
+
+
+                <div class="modal-body" data-name="cra-old">
+                    <div class="modal-title">
+                        <h1><span class="point">Text Simplification. Full-stack development using Laravel framework, PHP</span></h1>
+                    </div>
+                    <div class="modal-description">
+                        <p>A project that uses AI methods to simplify the Canada Revenue Agency (CRA) documents (still in the development phase). The development team is consists of 3 members from Lakehead University and supervised by four members from the CRA organization and one member from Lakehead University (references are available upon request).</p>
+                        <br>
+                        <p><strong>What Did I learn?</strong></p>  
+                        <ul>
+                            <li>Laravel 5 (Server)</li>
+                            <li>AWS EC2</li>
+                            <li>MySQL seeding and migration</li>
+                            <li>Linux, Apache, MySQL, PHP(LAMP)</li>
+                        </ul>
+                    </div>
+                    <div class="about-me-info">
+                        <p>
+                            <span class="span-title">Stack</span>
+                            <span>PHP LARAVEL, HTML, CSS, Bootstrap, Javascript, MySQL</span>
+                        </p>
+                        <p>
+                            <span class="span-title">Date</span>
+                            <span>April, 2020</span>
+                        </p>
+                    </div>
+                    <div class="modal-images">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/CRA/old/30-1.jpg" data-progressive="/assets/media/modal-images/CRA/old/1.PNG" alt="by pedram / cooper khayyatkhoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/CRA/old/30-2.jpg" data-progressive="/assets/media/modal-images/CRA/old/2.PNG" alt="by pedram / cooper khayyatkhoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/CRA/old/30-3.jpg" data-progressive="/assets/media/modal-images/CRA/old/3.PNG" alt="by pedram / cooper khayyatkhoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/CRA/old/30-4.jpg" data-progressive="/assets/media/modal-images/CRA/old/4.PNG" alt="by pedram / cooper khayyatkhoshnevis at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/CRA/old/30-5.jpg" data-progressive="/assets/media/modal-images/CRA/old/5.PNG" alt="by pedram / cooper khayyatkhoshneviss at webprinciples">
+                        <img style="width:100%" class="load-on-modal-open img-responsive" src="/assets/media/modal-images/CRA/old/30-6.jpg" data-progressive="/assets/media/modal-images/CRA/old/6.PNG" alt="by pedram / cooper khayyatkhoshneviss at webprinciples">
+                    </div>
+                    <div class="about-btns">
+
+        
+                        <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
+                    </div>
+                </div>
+
+
                 <div class="modal-body" data-name="weekapp">
                     <div class="modal-title">
                         <h1><span class="point">Native iOS and Android Application for Research and Innovation Center (Lakehead University, ON Canada)</span></h1>
@@ -763,7 +923,6 @@
                         <p>This App was created for the Research and Innovation Center. The app shows recent events of Lakehead University. Users can browse events of two campuses, and add the events to their phone's native calendar and create reminders. Server data is served over HTTPS protocol and utilizes AWS S3 CND capabilities.</p>
                         
                         <p>
-
                             <a href="https://apps.apple.com/ca/app/research-and-innovation-week/id1497433721" target="_blank" style="color: blue">On iOS App Store</a>
                             <br>
                             <a href="https://play.google.com/store/apps/details?id=com.webprinciples.weekapp" target="_blank" style="color: blue">On Google Play Store</a>
@@ -773,13 +932,13 @@
                             <a href="https://drive.google.com/file/d/1pgausfHVebgHI4RihuOYN7k3yFeO4as6/view?usp=sharing" target="_blank" style="color: blue">Android Video Demo</a>
                             <br>
                         </p>
-
+                        <br>
                         <p><strong>What Did I learn?</strong></p>  
                         <ul>
                             <li>Laravel 5 (Server)</li>
                             <li>React Native</li>
                             <li>Expo</li>
-                            <li>AWS EC2, </li>
+                            <li>AWS EC2</li>
                             <li>MySQL seeding and migration</li>
                             <li>Linux, Apache, MySQL, PHP(LAMP)</li>
                         </ul>
@@ -807,6 +966,7 @@
                         <a href="#" class="site-btn gray-btn" data-dismiss="modal">Back to cv</a>
                     </div>
                 </div>
+
                 <div class="modal-body" data-name="Apposha">
                     <div class="modal-title">
                         <h1><span class="point">Startup Web Application, CMS and Database as a Service (DBaaS) for Apposha.io</span></h1>
@@ -874,7 +1034,8 @@
                     </div>
                     <div class="modal-description">
                         <p>A Website builder and Content management system from scratch for UBUToday. UBU Today is a non-profit organization that provides education, resources, workshops and access to world-renowned natural techniques as a springboard for renewed personal growth, hope and healing.</p>
-                        <p><strong>What Did I learn?</strong></p>  
+                        <br>
+                        <p><strong>What Did I learn?</strong></p>
                         <ul>
                             <li>Laravel 5</li>
                             <li>MVC Programming</li>
@@ -942,6 +1103,7 @@
                     </div>
                     <div class="modal-description">
                         <p>A website builder and Content management system from scratch for Emmanuelsrug. Gained extensive client relationship experience and received great reviews.</p>
+                        <br>
                         <p><strong>What Did I learn?</strong></p>  
                         <ul>
                             <li>Laravel 5</li>
@@ -1043,6 +1205,7 @@
                     </div>
                     <div class="modal-description">
                         <p>A website builder and CMS from scratch (WebPrinciples). New pages can be added to the website using drag and drop. Menu navigation can be added, edited and sorted. A complete developer independent system. A similar concept to WordPress.</p>
+                        <br>
                         <p><strong>What Did I learn?</strong></p>   
                         <ul>
                             <li>Laravel 5.2</li>
@@ -1098,6 +1261,7 @@
                     </div>
                     <div class="modal-description">
                         <p>PhoneGap Cordova App for People to find businesses and navigate to it using GPS</p>
+                        <br>
                         <p><strong>What Did I learn?</strong></p> 
                         <ul>
                             <li>Mobile Application Development</li>
@@ -1147,6 +1311,7 @@
                     </div>
                     <div class="modal-description">
                         <p>Fun and simple game for learning English. Originally created this with a group mate @biyangdo for venture capital competition KStartup. We were among the teams that were selected.</p>
+                        <br>
                         <p><strong>What Did I learn?</strong></p> 
                         <ul>
                             <li>HTML, CSS, JavaScript</li>
@@ -1189,6 +1354,7 @@
                     </div>
                     <div class="modal-description">
                         <p>Demo website builder with multiple themes to select from.</p>
+                        <br>
                         <p><strong>What Did I learn?</strong></p>  
                         <ul>
                             <li>Laravel 5.2</li>
@@ -1228,6 +1394,7 @@
                     </div>
                     <div class="modal-description">
                         <p>POS system, booking management (Multipurpose application for small business).</p>
+                        <br>
                         <p><strong>What Did I learn?</strong></p>  
                         <ul>
                             <li>Laravel 5</li>
@@ -1267,6 +1434,7 @@
                     </div>
                     <div class="modal-description">
                         <p>Website and CMS system for cryptocurrency exchange.</p>
+                        <br>
                         <p><strong>What Did I learn?</strong></p>  
                         <ul>
                             <li>Laravel 5</li>
@@ -1314,6 +1482,7 @@
                     </div>
                     <div class="modal-description">
                         <p>Static Website</p>
+                        <br>
                         <p><strong>What Did I learn?</strong></p>  
                         <ul>
                             <li>Laravel 5</li>
@@ -1351,6 +1520,7 @@
                     </div>
                     <div class="modal-description">
                         <p>A demo project to communicate with a smart flower pot. This app supposedly keeps track of the plant condition. The code is merely a demo of admin page without functionality.</p>
+                        <br>
                         <p><strong>What Did I learn?</strong></p>  
                         <ul>
                             <li>Laravel 5</li>
@@ -1385,6 +1555,7 @@
                     </div>
                     <div class="modal-description">
                         <p>Website and CMS for publishing articles and sharing video gameplays.</p>
+                        <br>
                         <p><strong>What Did I learn?</strong></p>  
                         <ul>
                             <li>Laravel 5</li>
@@ -1418,6 +1589,7 @@
                     </div>
                     <div class="modal-description">
                         <p>A demo website. A platform where users can review different projects.</p>
+                        <br>
                         <p><strong>What Did I learn?</strong></p>  
                         <ul>
                             <li>HTML, CSS, JavaScript</li>
